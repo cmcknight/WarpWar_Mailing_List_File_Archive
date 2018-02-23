@@ -1,0 +1,662 @@
+TRIPLANETARY SCENARIOS
+
+============================================
+FIRST EDITION SCENARIOS
+
+SCENARIOS
+
+---------------------
+GRAND TOUR, 2037 A.D. 
+A Multi-Player Scenario
+	Gesichtskreis Sternschiffbau, A.G. offers a grand prize of 
+royalties and remuneration to the winner of its decenniel Grand Tour 
+competition.
+	Each contestant receives 1 Corvette.
+	All ships start on Terra. Each ship must pass through at least 
+one gravity hex of each heavenly body with full gravity, and return to 
+(land on) Terra.
+	The first ship to achieve the above wins. If several ships 
+achieve the above at the same time (in the same number of Turns), the 
+player with the lowest fuel consumption wi ns.
+	Fuel is available at Venus, Mars, Terra, and Callisto only. 
+Any ship in orbit at one of these planets for one Turn is refueled.
+	The Combat rule applies. However, a player automatically loses 
+if he attacks another ship and:
+	1) He is in detector range of any planet or moon.
+	2) He is in detector range of a third ship.
+	3) His victim survives to return to any planet.
+	
+------
+ESCAPE 
+A 2-Player Scenario
+	The Pilgrims, a small but righteous minority oppressed by the 
+First Citizen and his infamous Thought Police, have secretly prepared 
+a Transport and 2 decoys to enable them to escapeto the Stars! The 
+Transport is equipped with Long Sleep capsules, and it is only necessary 
+that the ship leave the Solar System with enough fuel to allow maneuver 
+and decelleration at Journey’s End. But first, they must elude the 
+Enforcers.
+	The Pilgrims receive 3 Transports (white on blue ships) placed 
+on Terra.
+	The Enforcers receive 1 Corvette in orbit around Terra, and a 
+corsair in orbit around Venus. (Use the white on black ships.)
+	The Pilgrim secretly designates one transport as containing the 
+Fugitives; the other two are decoys operated by aspiring martyrs. 
+Beginning at Day 1, Pilgrim may launch his ships from Terra in any manner 
+he wishes. Ships still on Terra not yet launched may not be attacked.
+	The Pilgrims win a decisive victory if the fugitive ship exits 
+the board beyond Jupiter with sufficient fuel remaining to make a dead 
+stop, plus 1. He may be disabled.
+	The Pilgrims win a marginal victory if they exit as above, with 
+less fuel than required.
+	The Pilgrims win a moral victory if they are destroyed, but 
+take at least 1 Enforcer with them.
+	The Enforcers win a decisive victory if they capture the Pilgrims 
+(loot their ship) and return safely to a planet.
+	The Enforcers win a marginal victory if the Pilgrims are destroyed.
+	Mines and torpedoes may not be used. Pilgrim ships have no 
+armament, but may ram.
+	Decoy ships are revealed only when looted, Otherwise, all ship 
+identities remain secret until the game ends.
+	No time limit.
+
+---------
+LATERAL 7 
+A 2-Player Scenario
+	A Liner carrying industrial magnates to an interplanetary mining 
+conference at the Ganymede Colony is outbound from Venus. Other 
+considerations (not shown) prevent the Navy from escorting this ship, 
+but one Dreadnaught on station in the Belt is available to respond to 
+distress calls.
+	The relatively recent pirate menace has been raiding the rich 
+Trans-Belt shipping lanes from an unlocated base in the Asteroids. 
+Capture and subsequent ransom of the manifest of the Liner would virtually 
+guarantee doubling the pirate fleet.
+	The Pirate receives 2 Corsairs and 1 Corvette, plus 9 dummy 
+counters. (Use White on Black for the Pirate, Black on Red for dummies.)
+	The Navy has 1 Dreadnaught (red, white, and blue) and 3 dummies 
+(non-dreadnaught red, white, and blue). The Liner is Blue and White.
+	The Liner is placed on Venus. The Dreadnaught and 3 Navy dummies 
+are placed in asteroid hexes in the Belt. inverted. The Pirate then 
+places his 3 ships and 9 dummies inverted on any unoccupied asteroid 
+hexes. All ships begin at zero velocity.
+	The Dreadnaught may not move until a pirate is detected by a 
+planet, or a ship
+	Non-pirates are eliminated if they enter the special asteroids 
+adjacent to Clandestine.
+	Because ship sailings are published, the pirate knows the location 
+of the Liner. Each pirate, on its first acceleration, must remove 3 
+dummies. The Dreadnaught, on its first acceleration, removes its dummies. 
+Dummies may not move or detect.
+	The Pirate base is Clandestine. There are unlimited mines available 
+there. Each pirate Corsair begins with 1 mine on board. The Dreadnaught 
+begins with one mine and one torpedo, with an unlimited supply of both 
+available on Mars.
+	The Pirate wins decisively if he loots the Liner, destroys the 
+Dreadnaught, and returns the ship with the loot to Clandestine. He wins 
+a tactical victory by looting the Liner.
+	The Navy wins decisively by getting the Liner to Ganymede, and 
+destroying one pirate. He wins a tactical victory by getting the Liner 
+to Ganymede.
+	If the Liner is destroyed, both sides lose.
+
+------------------
+INTERPLANETARY WAR 
+A 2-Player Scenario
+	Terra’s colonies have labored long under the seeming yoke of 
+oppression and now are rising to declare themselves as equals to the 
+Mother world. The exhausted home planet, after giving the best metals 
+from her breast, the prime of humanity from her womb, sees this as 
+impertinence of the worst sort. Properly convinced, the rebels will be 
+made to return to the Status Quo.
+	Terrans: Choose a fleet from Terran (red, white, and blue) ships,
+totalling no more than 50 combat points. Treat a 1D as 1/2 point.
+	This fleet may be deployed on or in orbit around Terra, Luna, 
+Mercury, or Venus, or in space, stationary. Ships may not be placed less 
+than 5 hexes from any asteroid hex, or less than 10 hexes from Mars. 
+Ships may not be placed beyond the belt.
+	Deploy first. All ships may carry a full load of mines, torpedoes, 
+and nukes. Nukes are discussed later.
+	Choose a merchant fleet of no more than 5 combat points (blue 
+and white). This must be placed on Terra.
+	Rebels: Choose a fleet (red and black, and black and white) 
+totalling no more than 30 combat points. Deploy these ships on or orbiting 
+Callisto, Ganymede, lo, or Mars, stationary in space, or on any asteroid 
+hex. Ships may not be placed sunward of the belt.
+	Each player receives 1 replacement point per planet held per 10 
+turns, on that tenth turn. One replacement point may be used to build 1 
+combat point’s worth of ship, or 2 1D points of transport. Any type ship 
+may be built. Points may be accumulated.
+	Replacement points may also be used to build Nukes. qne point buys 
+one nuke. Nukes weigh 20, and behave as mines, except
+	a) They totally destroy any ships in the hex they expiocie in, or
+	b) They devestate the planetary hexside they explode on.
+	Guns attacking nukes fire (always) at 2:1. A disabled nuke cannot 
+function. Nukes deactivate after 5 turns.
+	Terra’s home base in Terra. The Rebels home base in Callisto. 
+All replacement ships are built at the player’s home base.
+	All Terran bases must be visited by a Transport from Earth every 
+30 turns, or the unvisited base dies from lack of supply. Note that 6 
+Transports must visit Venus every 30 turns, or at least one base will die.
+	A base may be captured by landing a ship on it, if unoccupied 
+by a ship. Occupied bases may not be captured. Bases may be destroyed 
+only by Nukes. A player must occupy all existing bases on a planet for 
+that planet to count toward replacement points.
+	Terra wins if she eliminates the rebel threat. All military 
+	vessels of the Rebel fleet must be destroyed.
+	If more than half the Rebel bases are destroyed, the best Terra 
+can achieve is a draw.
+	The Rebel succeeds if he places 2 Nukes on different Terran hex 
+sides, and 1 Nuke on Luna.
+
+--------------
+ALIEN INVASION
+	Swooping out of Taurus came the advanced, but incredibly 
+incomprehensible, and paradoxically barbaric ursinoid race called only ‘Pan'
+	Terran:	Choose a fleet of any 5 ships (red, white, and blue) and 
+deploy them anywhere sunward of the belt. Choose any 2 ships every 5 
+turns as reinforcements to be activated on Terra. These ships may be 
+previously destroyed ship& Terran replacements continue so long as one 
+Terran base is still in Terran hands.
+	Pan: Take 6 Transports for use as hyperspace shuttles (blue and 
+white). Using the shuttle rule, bring in all ships possible and/or 
+necessary. (Use red and black)
+	Each side starts with 2 nukes on board any ships capable of 
+carrying them. Each side receives 2 nukes every 10 turns, on Terra, or 
+available for shuttling in. These may be accumulated.
+	Hyperspace Shuttles
+	The Pan have a hyperspace drive, but it’s size and complexity 
+require its installation on a shuttle craft, which can transport several 
+ships between systems over a period of time.
+	Use commercial transports as shuttles. Each shuttle may carry 
+1 ship.
+	The player places each shuttle, with cargo, on a clear space hex, 
+at least 3 hexes from a planet. Each shuttle is displaced. Roll a die to 
+determine direction of scatter. (1=Sunward, 2, 3, clockwise, etc.) Then 
+roll a die to determine the number of hexes displacement. The one place 
+a shuttle may never go is the hex it was aimed at.
+	Shuttles arrive at zero velocity. More than one shuttle arriving 
+at the same hex causes all to be disabled for 3 turns, including cargo. 
+Shuttles may jump home again, if undisabled, on the next turn after 
+arrival.
+	Waves of shuttles may not arrive closer than every 10 turns.
+	Pan wins decisively by occupying at least 3 Terran hexsides, 
+and destroying the rest.
+	Pan wins marginally by destroying all Terran bases, and completely 
+controlling 4 of 6 hexsides of Mars or Venus, with the remainder on the 
+specific planet destroyed.
+	Terra wins decisively if she destroys at least 5 shuttles, or 
+reduces the total Alien combat points on the board to less than 20. 
+Count 1 D as 1/2 point.
+	Terra wins marginally if the above conditions are met, but 3 
+or more hexsides of Terra have been devastated.
+	
+-----------	
+PROSPECTING
+	Civilization has always depended, somehow, on people just finding 
+the things it needs. Now, the farthest frontiers, out in the asteroid belt 
+beyond Mars, provide a place for men to “find” the nickel, copper, platinum, 
+even C-T shards of the shattered former fifth planet.
+	Each player begins with 25 kilocredits. The following costs 
+and weights apply:
+
+Transport			10 kilo credits
+Packet, Corvette		40 kilo credits
+Tanker				10 kilo credits
+Fuel, per point			1 kilo credit
+Automated Mining Equipment	5 kilo credits
+Employees, 
+1 crew for a mine, per turn	1/5 kilo credits
+Special Radar			30 kilo credits
+Pseudo-magnetic Grapples	40 kilo credits
+
+	Automated mining equipment requires 10 cargo points. Such equipment 
+produces 1 kilo credit of ore per turn, and stores it. Any ship may 
+pick this ore up, and sell it at ceres. One kilo credit’s worth of ore 
+requires 1 cargo point of space on a ship.
+	All accounts are cash in the bank at ceres. All purchases, sales, 
+etc. occur there. Employees must be paid 2 kilo credits per crew in 
+advance, and accounts caught up every time the player touches at Ceres. 
+	The advantage of a live crew is that someone else cannot steal 
+the ore from a manned mine.
+	Special radar allows entrance to the special asteroids around 
+Clandestine.
+	Any ship, passing through an asteroid hex at a speed of 1, may 
+analyze the content of the asteroids. Roll a die. A “6” indicates high 
+grade ore. Mark the hex to indicate a claim. Mark other hexes to indicate 
+their lack of value. Worthless hexes may always he re-examined. Roll the 
+die twice. Two “sixes” indicates discovery of high qrade ore.
+	A player may hire himself out, as crew to another player. Rich 
+players may give “grubstakes,” go into the transport and shipping business, 
+turn pirate.
+	If, when rolling the die to discover ore, a “1” is rolled, roll 
+the die again. If another "1” is rolled, the ship had encountered C-T 
+(Contra-Terrene, or Anti-matter), and is disabled for 4 turns. C-T may 
+only be handled by a ship equipped with pseudo-magnetic grapples. Such 
+ships are also not affected (disabled) when passing thru a C-T hex. C-T 
+is produced one piece per turn. One piece may be carried in the special 
+ship. It sells for 100 kilocred its at Ceres.
+	At any given point, the richest player wins.
+	You may find this scenario very cumbersome. Beware.
+	
+-----------	
+RETRIBUTION
+	The answer, as we have learned and forgotten every generation 
+since Adam is not to run from the despot, but to overthrow him. The 
+whispered story of the fugitive Pilgrims escape gave heart to the oppressed 
+in the system. “And they smote him as a blacksmith smites an anvil.”
+	The enforcers receive 3 Corsairs and 1 Frigate (use black and 
+white). Place the Frigate on Luna, and the Corsairs in orbit around any 
+3 planets or moons.
+	The sons of liberty receive up to 10 Corvettes in dribbles. A new 
+Corvette may not appear until the previous one has accomplished its mission, 
+or the Corvette is destroyed. A Corvette may be placed on any planet. The 
+second and subsequent Corvettes may appear on any planet.
+	Corvettes fly one of 2 missions. It may fly to and stop at 
+Clandestine, for inclusion in the Freedom Fleet, or it may attack Terra. 
+Each Corvette which crashes into earth, while undisabled, sufficiently 
+scares the first citizen that he withdraws a ship into earth orbit. Each 
+successfully crashed Corvette requires another ship to withdraw to protective 
+earth orbit. These ships may not venture (voluntarily) beyond detector 
+range of Terra and Luna.
+	At any time, the sons of liberty inay cease sending Corvettes, 
+and create the “Freedom Fleet” at Clandestine.
+	Total the combat strengths of all Corvettes successfully arrived 
+at Clandestine, and double it. The sons of liberty then choose a fleet 
+of any ships equal to or less than that total. Treat 1 D as half a point.
+	Enforcers may not enter the special asteioids around Clandestine, 
+or they are destroyed. Others treat those hexes as clear.
+	The sons of liberty win by destroying the enforcer fleet and freeing 
+Terra. The enforcers win by staying alive. They get promotions and extra 
+leave in Paris for destroying the rebellion (i.e. destroying all Corvettes 
+and the Freedom Fleet).
+
+------
+PIRACY
+	Whenever Man, in the fulfillment of his destiny, ventures beyond 
+his previous bounds, there are self-seeking, unscrupulous men who will 
+stand in the way. Sometimes cloaking themselves in pseudo-righteousness, 
+sometimes honestly dishonest, these men still have the same end in mind, 
+riches.
+	So, in he early 21st Century, the System’s burgeoning economy 
+is threatened by Pirates striking from a secret base in the Asteroid belt.
+	Patrol:		Receives a Dreadnaught and a Corsair on Luna.
+	Merchant:	Receives 2 Transports, on Terra.
+	Pirate:		Receives 2 Corsairs on Clandestine.
+	The Patrol sets up first, preplotting patrol circuits in the 
+inner System (Terra, Mars, Venus, Sol) and the outer System (Callisto, 
+Ganymede, Callisto). Patrol ships may not leave these circuits until a 
+Pirate is detected.
+	Merchant announces the destinations of his two Transports. Once 
+a cargo has been delivered to a planet, it may not receive another cargo 
+until all other planets have received a cargo. Exception, Sol and Jupiter 
+are disregarded as they are uninhabited, and Transports returning to Terra 
+may always carry cargo to Terra.
+	Pirate begins on Clandestine.
+	The Pirate receives 2 points for each ship he loots. Disregard 
+cargo capacities, assume he takes the cream of the cargo. Any disabled 
+military ship he boards, other than Dreadnaught or Torch, may be converted 
+to Pirate when it becomes undisabled. Commercial vessels he captures may 
+be converted to Pirate packets upon return to Clandestine. The Pirate may 
+buy ships on Ganymede at the Patrol price.
+	The Merchant receives 2 points for each cargo delivered to a planet. 
+He loses 4 points for each Transport destroyed. New transports may be 
+purchased, on Terra, for 8 points.
+	The Patrol receives a number of points equal to the combat point 
+strength of any destroyed pirates. The Patrol may buy new ships on Luna 
+at a cost of 2 points equals 1 combat point.
+	Patrol’s Posse Comitatus Regulation, Sec. Ill, para 14, sub para jj. 
+Revised Directives: Transports may not schedule takeoffs to shadow patrol 
+ships. The Transports traveling within 4 hexes of a Patrol ship is fined 
+1 point every 10 turns.
+	If the merchant’s point total goes to zero, the Pirate wins, 
+marginally.
+	If the Pirate scores 8 points in a cycle, he wins decisively. 
+Count a cycle as the period during which all planets receive at least 
+one cargo.
+	If the Merchant expands his fleet to 3 times the Pirates, or 6 ships, 
+whichever is greater, he wins.
+	If the Patrol destroys the Pirate fleet, he wins.
+
+============================================
+SECOND EDITION SCENARIOS
+
+TABLE 2. PRICES
+Ship		Combat	Fuel	Cargo	Cost
+Type		Str	Cap	Cap	(MCr)
+Transport	1D	10	50	10
+Tanker		1D	50	0	10
+Liner		2D	10	50	50
+Corvette	2	20	5	40
+Corsair		4	20	10	80
+Frigate		8	20	40	150
+Dreadnaught	15	15	50	600
+Torch		8	special	10	400
+Orbital Base	16	0	special	1000
+
+Equipment		Cost
+Type		Weight	(MCr)	Remarks
+Fuel		—	1	stored at bases.
+Mine		10	10	exploding type.
+Torpedo		20	20
+Nuke		20	300
+Scanners	—	30	detect CT shards.
+PM Grapples	40	40	handle CT shards.
+Automated Mine	10	5	digsore.
+Robot Guards	10	50	protects mines.
+Ore		1	varies
+CT Shard	10	varies
+
+-------------------
+GRAND TOUR, 2037 AD
+A multi-player scenario.
+	Gesichtkreis Sternschiffbau, A.G. offers a grand prize of
+royalties and remuneration to the winner of its decennial Grand
+Tour competition. This event is the high point of each decade for
+scores of space-racing devotees, as well as the top ship designers
+and pilots of the Solar System.
+	Ships: Each racer receives one corvette, at Terra.
+	Special Rules: Fuel is available only at bases on Terra, Venus,
+Mars, and Callisto. Fuel is available to anyone. Combat is allowed.
+	Victory: Each ship must pass through at least one gravity hex
+of each astral body with full gravity and return to land on Terra.
+The first ship to do so wins. If several travel the same circuit in
+the same time, the minimum fuel consumption wins.
+	Variant: After several games of this scenario, players will
+become familiar with optimum routes. Instead, announce a
+required route just prior to the race. Examples: astral bodies
+must be arrived at in alphabetical order; astral bodies must be
+visited in order of their size; astral bodies must be visited in
+their order from the sun.
+
+------
+ESCAPE
+A short two-player scenario.
+	The Pilgrims, a small but righteous minority oppressed by the
+First Citizen and his infamous Thought Police, have secretly
+prepared a transport and two decoys for an escape to the stars!
+The transport is equipped with Long Sleep capsules and it is only
+necessary that the ship leave the Solar System with enough fuel
+remaining to allow maneuver and deceleration at journey’s end.
+But first, they must elude the Enforcers.
+	Ships: The Pilgrims receive three transports (white on blue)
+on Terra. The Enforcers receive one corvette in orbit around
+Terra and a corsair in orbit around Venus (white on black counters).
+	Special Rules: The Pilgrims secretly designate one transport to
+contain the fugitives; the other two are decoys operated by
+aspiring martyrs. Beginning on Day 1, the Pilgrim may launch his
+ships from Terra in any manner he wishes. Ships still on Terra
+may not be attacked. Decoy ships are revealed only if the Enforcer 
+matches course and inspects the ship in question. Other
+wise, ship identities are revealed only at the end of the game.
+	Mines and torpedoes are not available to either player. The
+Pilgrims may ram. Only Terra, Venus, and lo have bases.
+	All bases on the map belong to the Enforcers. Planetary
+defenses are not operating.
+	There is no time limit to this scenario.
+	Victory: Several levels of victory are possible based on the
+game results.
+	The Pilgrims win a decisive victory if the fugitive ship exits the
+board beyond Jupiter with sufficient fuel remaining to make a
+dead stop, plus one fuel point. The Pilgrim transport may be
+disabled.
+	The Pilgrims win a marginal victory if they exit as indicated
+for a decisive victory but have less fuel than required.
+	The Pilgrims win a moral victory if they are destroyed or cap
+tured but destroy at least one Enforcer ship in the process.
+	The Enforcers win a decisive victory if they capture the
+Pilgrims (loot their transport) and return safely to a base.
+	The Enforcers win a marginal victory if they destroy the
+transport carrying the Pilgrims.
+
+---------
+LATERAL 7
+A short two-player scenario.
+	A liner carrying industrial magnates to an interplanetary
+mining conference at the colony on Ganymede is outbound
+from Venus. Other pressing considerations prevent the Navy from
+escorting this ship, but one dreadnaught (the Tycho Brahe,
+number 101) is on station in the Belt to respond to possible
+distress calls. Recently, pirates have been menacing the rich
+trans-Belt shipping lanes with raids from their unapproachable
+base at Clandestine. If the pirates can capture and ransom the
+passengers on the liner, they will be able to double the size of
+their fleet.
+	Ships: The pirates receive two corsairs and one corvette
+(white on black), plus nine dummy counters (red, white, and blue
+corvettes and corsairs). The Navy receives one dreadnaught (red,
+white, and blue), three dummies (red, white, and blue frigates),
+and a liner (white on blue).
+	Special Rules: The liner is placed on Venus. The dreadnaught
+and three dummies are placed in any asteroid hexes, inverted to
+conceal their identities. The pirate then places his three ships and
+nine dummies in any unoccupied asteroid hexes. All ships begin
+at zero velocity.
+	Because ship sailings are published, the pirate knows the
+location of the liner. Each pirate ship, on its first acceleration,
+must remove three dummies. The dreadnaught, on its first accel
+eration, must remove its three dummies. The dreadnaught,
+however, may not move until a pirate is detected by a ship or a
+base.
+	The pirate base is Clandestine, and pirates treat the special
+(blue) asteroids surrounding it as clear space. Mines, fuel, and
+minor maintenance are available at that base for the pirates. Each
+pirate corsair begins the game with one mine on board.
+	The Navy has bases on Mars, Terra, and Callisto. The dread-
+naught begins with one mine and one torpedo on board.
+	Victory: The pirate wins by matching courses with the liner,
+transferring the passengers, and taking them to Clandestine. He
+wins decisively if the dreadnaught is also destroyed. The Navy
+wins if the liner makes it to Ganymede. The win is decisive if a
+pirate ship is also destroyed.
+	If the passengers of the liner, while on the liner or after
+transfer to another ship, are destroyed, both players lose.
+	Variant: The liner may begin at Terra instead of Venus.
+
+----
+NOVA
+A short three-player scenario.
+	Even the survival of the race can be subordinated to petty
+politics, which is perhaps as it should be. Consider this: If survival
+is for the strong, do the weak have any right to live?
+	This scenario is intended for three players: The American-
+dominated WestBloc, the Communist EastBloc, and the Alien
+invaders.
+	Ships: Both the EastBloc and the WestBloc players select
+fleets using the combat strength point system and an allowance
+of 50 points each. EastBloc should use red and black counters;
+WestBloc should use red, white, and blue counters. The Alien
+invader receives a fleet of four corsairs (use white and black
+counters).
+	Special Rules: EastBloc and WestBloc must roll dice to deter
+mine where their colonies are and decide which parts of Terra
+they rule. The EastBloc selects three adjacent Terran hexsides; the
+WestBloc receives the other three. The WestBloc then selects one
+Luna hex side as a moon colony; the EastBloc then selects any
+other Luna hex side as its moon colony. Finally, each side rolls
+one die to determine where their farther colony is located:
+lVenus, 2=Mars, 3=Ceres, 4=Callisto, 5=Clandestine, and
+6=Mercury. The colony has only one base somewhere on the
+indicated location. If both sides roll the same number, both roll
+again.
+	After all EastBloc and WestBloc ships have been placed on
+friendly bases, the Alien invader enters the map with its four
+corsairs; they may enter at any point along the map edge closest
+to Jupiter at a speed of one hex per turn.
+	The Alien ships are suicide ships carrying Nova bombs. A ship
+carrying Nova bombs automatically activates them when in
+orbit around So!. One ship doing so is sufficient to destroy the
+sun. Nova bombs do not use any cargo capacity.
+	Resupply is available at friendly bases. EastBloc and WestBloc
+bloc bases may be friendly if the owning player so decides. Alien
+ships begin with a full load of mines.
+	Victory: The EastBloc or the WestBloc wins by destroying the
+last Alien ship. For this purpose, a ship is defined as destroyed
+when it receives damage which inexorably will result in destruc
+tion (i.e., a ship disabled and unable to avoid leaving the board).
+	The Alien invader wins by successfully activating its Nova
+bombs while in orbit around the sun.
+	When one player wins, both others lose.
+	Variants: Alter the size of the Alien fleet up or down depen
+ding on the relative success of previous play.
+
+-----------
+RETRIBUTION
+A short two-player scenario.
+	The answer (as learned and forgotten by every generation since
+Adam) is not to run from the tyrant but to depose him. The
+whispered story of the brave pilgrims’ ordeal gave heart to the
+oppressed of the solar system -
+	Ships: The Enforcers receive two corsairs, each in orbit around
+a different planet selected by the player, and one frigate on a base
+at Luna (use black with white counters for sinister effect). The
+Sons of Liberty receive a total of ten corvettes (red, white, and
+blue counters) one at a time. The next corvette does not appear
+until the previous has accomplished its mission or been destroyed.
+Each corvette may appear at any base except Luna, Ceres, or
+Terra.
+	Special Rules: Corvettes for the Sons of Liberty may fly one
+of two missions: A flight to Clandestine to help in the building of
+the Freedom fleet or a suicidal attack on Terra.
+	Each corvette which manages to crash into Terra (undisabled
+at the time of the crash) sufficiently scares the First Citizen that
+he reassigns one ship to the Terran Security Patrol. Ships on
+Terran Security Patrol may not venture beyond detector range of
+Terra or Luna until after the Freedom Fleet has been formed. If
+three corvettes successfully crash into Terra, the three Enforcer
+ships must be withdrawn into Terran Security Patrol.
+	After all ten corvettes have appeared (or, at the Sons of
+Liberty player’s option, at any time prior), all corvettes which
+have travelled to and stopped at Clandestine may be converted
+into the Freedom Fleet. Total the combat strength of all cor
+vettes at Clandestine, and double it. Using the combat strength
+point system, the Sons of Liberty now select a fleet using that
+number of points. Torches may be selected.
+	Because the Sons of Liberty own the base at Clandestine, they
+treat the special asteroids as ordinary asteroids. Torpedoes and
+mines are available only to the Enforcers, but also only from
+Terran bases.
+	The Enforcers have all bases on the map with the exception of
+Clandestine, but only the bases at Terra and Luna have planetary
+defenses.
+	Victory: The Sons of Liberty win by destroying the Enforcer
+fleet, and, as a result, freeing Terra. If the Enforcers hide, keeping
+their ships grounded for twelve or more turns, then the Sons of
+Liberty win is automatic.
+	The Enforcers win by staying alive. They receive promotions
+and extra leave in Paris if they put down the rebellion by des
+troying the rebels. If the rebels are indecisive and ground their
+fleet for at least twelve turns, the rebellion has failed and the
+Enforcers win.
+
+----------------
+THE FLEET MUTINY
+A short two-player scenario.
+	There are two versions to this historical incident, the official
+account, stating briefly that a small scattered band of dissidents,
+misled by a fanatic maniac, attempted and failed an insurrection
+in which certain fleet elements were to hold Terran cities for
+ransom against the establishment of an autocratic socialist govern
+ment.
+	The other account, simply stated, is that misrule of the present
+administration must end, and that the fleet itself will insure that
+future governments more rightly respect the citizens rights and
+the ruler’s responsibility.
+	The two players involved represent the Empire and the Rebels.
+	Ships: The Empire chooses a fleet of 12 ships and 2 orbital
+bases (using red, white, and blue counters). These may be placed
+anywhere on the map, but no ship may be closer than three hexes
+to any other. Vessels in gravity hexes may be assumed to be in
+orbit, and the direction of their orbits indicated.
+	Special Rules: All bases are initially under the control of the
+Empire. Planetary defenses are not in operation. Bases may be
+captured.
+	The Rebel player designates five ships and/or orbital bases, and
+rolls a die for each one. On a roll of 6, the ship does not rebel.
+	Planetary hexsides may be suppressed (for the remainder of
+the game) by gunfire from a ship orbiting overhead. A ship sup
+pressing a hexside may not fire at other targets that turn. Such
+suppression is automatic if a ship fires.
+	Victory: The Empire wins decisively if all Rebel ships and
+bases are eliminated and fewer than three Terran hexsides have
+been suppressed. The win is marginal if exactly three Terran hex-
+sides have been suppressed.
+	The Rebel wins decisively if he suppresses at least four Terran
+hex sides. If he does not win decisively, he loses.
+	Variant: Increase or decrease the size of the fleet initially.
+Place the fleet elements on the map, but inverted so that the
+identities of the ships are concealed from the Rebel player.
+
+------------------
+INTERPLANETARY WAR
+A long two-player scenario.
+	The Terran colonies have labored long under the seeming yoke
+of oppression and now are rising to declare themselves equals to
+mother Terra. The exhausted home world, after giving the best
+metals from her breast, the prime of humanity from her womb,
+sees this as an impertinence of the worst sort. The cross-purposes
+of these factions can only be resolved by WAR!
+	Ships: The Terran player selects a fleet of ships using the
+MegaCredit system and an allowance of MCr1600 (using the red,
+white, and blue counters). Terran ships may be placed on (or in
+orbit around) Terra, Luna, and Venus, or stationary in space
+within detector range of those worlds.
+	The Rebel player selects a similar fleet using the MegaCredit
+system and an allowance of MCr1000 (using the red and black
+counters). Rebel ships may be placed on (or in orbit around)
+Callisto (the Rebel home world), Io, Ganymede, and Mars, or
+stationary in space within detector range of those worlds.
+	In addition to ships, mines, torpedoes, and nukes may be
+purchased by the players and stockpiled on ships or on bases.
+These stockpiles must be noted. Fuel is available free at bases;
+it need not be purchased.
+	Each player holds worlds which can produce replacement
+spacecraft and ordnance. Each base generates MCrO.1 per turn;
+this sum may be accumulated and spent as soon as enough is
+available to use.
+	The Rebel player can use and spend his MegaCredits freely;
+they are considered transmitted to Callisto without problem. The
+Terran player must physically transport his MegaCredits to
+Terra before they may be used. Further, they may only be
+transported in commercial ships; each MegaCredit is considered
+to require one ton of cargo space in the ship.
+	Planets may not be captured, but bases may be destroyed
+by detonating nukes on their hexsides. If all bases on a planet are
+destroyed, all MegaCredits on the planet are also destroyed. If
+any bases remain the MegaCredits remain intact.
+	Victory: The Terran player wins decisively if the Rebel fleet
+is destroyed. That victory is reduced to marginal if any Terran
+hexside has been devastated.
+	The Rebel player wins if three or more Terran hex sides and
+one Luna hex side have been devastated.
+
+-----------
+PROSPECTING
+A long multi-player scenario.
+	Civilization has always depended upon the free enterprise
+spirit to provide it with the trappings of wealth. Now, on the
+farthest reaches of the Solar System, the asteroid belt is the new
+frontier: the source of untold riches and untold dangers. The
+rarities of Terra are commonplace in the belt: copper, uranium,
+platinum, pirates; all flourish in the lawless gravel of the belt.
+	Ships: Each player begins the scenario with MCr25. With that,
+ships and equipment (including fuel) must be purchased.
+	Special Rules: Any ship may prospect for ore by passing
+through an asteroid hex at a speed of one. Two dice are rolled: on
+the first roll, a 6 indicates that ore is present (mark the hex 0 if
+ore is present; X is not); on the second roll, a 1 indicates the ship
+has encountered a CT (Contra-Terrene) shard. Shards are rem
+nants of the planet Vulcan, the world which shattered long ago to
+form the asteroid belt. If the ship is equipped with PM grapples,
+the shard may be picked up and sold; otherwise, it explodes, the
+ship is disabled for four turns, and the shard disappears. Each hex
+may only be prospected once.
+	Ore may be sold at Ceres or at Luna. When a shipload of ore is
+offered for sale, roll one die. If at Ceres, subtract 2 from the roll
+(but the result may never be less than 1); if at Luna, do not
+modify the roll. The result is the price (in MCr) per ton of ore
+offered.
+	CT shards sell for MCr100 at Ceres or MCr300 at Luna.
+	Victory: Decide on a game length (perhaps 120 days to begin)
+before the game. The person with the most money wins.
+

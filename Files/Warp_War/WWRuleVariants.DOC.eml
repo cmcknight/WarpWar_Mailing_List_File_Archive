@@ -1,0 +1,448 @@
+From: emc@m-net.arbornet.org (Evan M Corcoran)
+Subject: Variants, 2nd Ed.
+      __         __ __     ____   ____ __         __ __     ____
+      \ \ /\    / / \ \   |___ \ |___ \\ \ /\    / / \ \   |___ \
+       \ \\ \  / / __\ \   ___) | ___) |\ \\ \  / / __\ \   ___) |
+        \ \\ \/ / / / \ \ |___ < | ___/  \ \\ \/ / / / \ \ |___ <
+         \ \\  / / /___\ \    | || |      \ \\  / / /___\ \    | |
+          \/ \/ /_________\   |_||_|       \/ \/ /_________\   |_|
+
+                                Variants
+                                 2nd Ed.
+
+WARPWAR RULE VARIANTS
+
+This is a collection of variant rules for Microgame #4, WarpWar.  Some
+of these rules are complex and change the nature of the game radically;
+others fit smoothly with the original system.  To a degree they can be
+mixed and matched with one another to produce a WarpWar of desired
+simplicity.  Rules marked with a * are 'official' 2nd edition rules and
+generally make no radical changes to the original system.
+
+Many WarpWar enthusiasts have contributed to this article.  Thanks to
+all of them!
+
+CONTENTS
+
+I. SHIP COMPONENTS
+ * 1. Cannons
+ * 2. Shells
+ * 3. ECM
+ * 4. Holds
+ * 5. Armor
+ * 6. Repair Bays
+   7. System Defense Beams
+   8. System Defense Missiles
+   9. Split Drive, Energy
+  10. Marines
+II. MOVEMENT
+ * 1. MP = 1/2 PD
+   2. WG cost 3 BP + max. MP
+   3. WG produce (3 + TL) MP
+   4  Tactical speed is goverened by a thrust/weight ratio
+   5. Space travel requires (distance^2) MP
+III. ECONOMICS
+ * 1. Star Ownership
+ * 2. Scrapping
+ * 3. BP Collection
+ * 4. Bases
+ * 5. Build event sequence
+   6. Colonies
+   7. 1/2 cost repairs
+   8. Ordered ship design
+IV. TECH LEVELS
+ * 1. TL increases 1 level every 6th turn.
+   2. TL must be bought
+   3. Screens subtract TL from each hit
+   4. TL increases 1 level per type every 2nd turn
+   5. Beam and Screen TL enhanced
+V. COMBAT
+ * 1. Systemship loss after failed attack
+ * 2. Systemship drop in combat
+   3. Ramming
+   4. Reserve power allocation
+   5. Hulks
+
+SECTION I: SHIP COMPONENTS
+
+*  CANNONS (C) are used by a ship to launch Shells.  Each Cannon may
+fire either one, two or three Shells per combat round.  1 PD is required
+to power a Cannon for one combat round.  Each Cannon costs 1 BP to
+build.  Cannons are treated as Beams as far as combat goes, i.e. ship's
+drive setting is used on CRT, but they may not be used with Beams or
+Screens.  May be used with Missiles.
+
+*  SHELLS (SH) are fired by Cannons.  Each Shell does a basic 1 point of
+damage if it strikes.  Hit +1 and +2 and TL extra damage is added per
+burst of Shells, not per individual Shell.  1 BP builds 6 shells.
+Shells do not have a drive setting; they are unguided and act like Beams
+in that they hit according to the ship's Drive and combat tactic.  In
+other respects Shells are treated as Missiles - ship may be built to
+carry any number (though they may never exceed the capacity they were
+built with), and they may not be transferred between ships.  Shells are
+not affected by ECM.
+
+      EXAMPLE: S1 is TL:1 PD:5 C:2 SH:6.  In combat with W3 (TL=1), the
+      orders are as follows:
+
+      S1 ATTACK D=3 C=1 (fire 3 shells) C=1 (fire 1 shell)
+      W2 ATTACK D=2
+
+      Checking the CRT, S1 obtains a HIT +2 against W2 with both guns.
+      First burst of 2 shells does [3 (shells) + 1 (tech level) + 2 (hit
+      bonus)] = 6 points of damage.  Second burst does (1 + 1 + 2) = 4
+      points damage.
+
+*  ELECTRONIC COUNTERMEASURES (E) allows a ship to alter the effective
+Drive of incoming enemy Missiles and force them to miss or do less
+damage.  ECM costs 1 BP per point. The ship can allocate PD to ECM in
+combat, up to the ECM rating with which the ship was constructed.  In
+combat, after orders are revealed, the player using ECM allocates his
+ECM points among the attacking Missiles, and then adds or subtracts the
+difference between the defending ship's tech level and each Missile's
+tech level from the ECM points allocated to that Missile.
+
+      EXAMPLE: W8 (TL2) generates 3 points of ECM.  2 Missiles are
+      launched at W8: one at TL0 and D=2 and one at TL4 and D=3.  W8
+      allocates 1 point of ECM against the first Missile and 2 points of
+      ECM against the second.  Subtracting the first Missile's TL of 0
+      from  W8's TL of 2 gives a +2, which is added to the 1 point of
+      ECM allocated against the first Missile, totalling 3 effective
+      points of ECM for that Missile ONLY.  W8 may alter the first
+      Missile's Drive rating by 3 points in either direction - he
+      chooses to reduce it to zero.  Subtracting the second Missile's TL
+      of 4 from W8's TL of 2 gives a -2, which is subtracted from the 2
+      points of ECM allocated against the second Missile, leaving zero
+      effective points of ECM for the second Missile ONLY.
+
+*  HOLDS (H) cost 1 BP per 10 BP capacity.  Holds contain BPs and allow
+Warpships to transport BPs between stars.  When taking damage, 1 point
+of damage will destroy one 10 BP-capacity Hold AND 10 cargo BP, or
+fraction thereof.  When taking damage on a Warpship with more than one
+Hold, the player may choose to damage empty Holds before BP-carrying
+Holds.  BPs may be loaded or unloaded during the Build event only.  BPs
+may not be transferred between ships.  Systemships may not have Holds.
+
+*  ARMOR (A) is ablative hull reinforcement.  1 BP builds (2 + tech
+level) points of Armor.  One point of Armor will absorb one point of
+damage.  Armor is repaired at a cost of 1 BP per 2 points of Armor,
+regardless of tech level.
+
+      EXAMPLE: W6 is built at tech level 3.  2 BP are spent on Armor for
+      for W6, building (2 x (2 + 3)) = 10 points of Armor.  Two turns
+      later W6 is damaged and 4 points of Armor are destroyed.  The cost
+      to repair W6's Armor from 6 to 10 points is 2 BP.
+
+*  REPAIR BAYS (R) cost 5 BP.  A ship with a Repair Bay may use BPs in
+Hold or from Star to repair itself or any number of other ships present
+on the same star hex during the build/repair event.  BPs mined from
+Baseless Stars may be used immediately to repair by ships with Repair
+Bays.  Repair Bays like Warp Generators do not take damage in combat and
+are destroyed when the Warp Generator is destroyed.
+
+   SYSTEM DEFENSE BEAMS (SDB) are small Beam projectors built in a sys-
+tem to serve as a last ditch line of defense.  They represent both plan-
+etary emplacements and satellites.  System Defense Beams cost 2 BPs for
+a one strength point unit.  (This reflects both the gun and the power
+plant needed to operate it.  SDBs may be built only in one strength
+point denominations.  It takes one missile or one beam hit to destroy a
+SDB.  Any extra force is wasted.  (Attacking with one ship firing a beam
+of 10 only destroys one SDB.  This is because of their physical separa-
+tion.)  Each SDB must be attacked separately.  SDB's may combine attacks
+on enemy ships in any desired combination.  SDB beams are assumed to
+have a speed of one (1) when attacking; they use the attack tactic when
+firing, and the retreat tactic when not firing.  SDBs may not be at-
+tacked until they have fired or until all friendly ships have been de-
+stroyed or have had their firepower destroyed.  Ships attacking SDBs
+must use a drive setting of 3 or less due to the extremely small size of
+the projectors.
+
+   Energy gain from SDBs: SDBs may be fired singly or in any combination
+at the owning player's ships, instead of firing at enemy ships.  Instead
+of damaging the friendly ships, the energy is absorbed and added to the
+current P/D allowance of the ship(s) so fired at.  It then acts in all
+ways like energy generated by the ships' engines.  It is possible to
+have a higher P/D thanthe ship was originally designed with.  This in no
+way harms the ship.
+
+   SYSTEM DEFENSE MISSILES (SDM) are self-contained Missiles and launch-
+ers that are aimed and fired by onboard computers.  (They are a lot like
+"brilliant pebbles").  SDMs are like spaceship launched missiles except
+that their maximum speed is six (6) due to design considerations.  SDMs
+cost 1 BP per 2 SDM for one BP.  This includes the cost of launching ap-
+paratus.  Because of their small size and easy-to-hide characteristics,
+SDMs may not be attacked by ships.
+
+SDBs and SDMs are treated like normal Beams and Missiles when technology
+increases.  All SDBs (but not SDMs) must be destroyed before system is
+considered captured.  If there are SDMs left over at the end of combat
+they are considered to be detected and eliminated.
+
+   SPLIT DRIVE AND POWER PLANT (D,P) Replace the Power/Drive with:
+Drive (D)  Denotes maximum speed of ship.
+Power Plant (P)  Produces energy used for Drive and weapons.
+Each point of Drive or Energy costs 1 BP.
+
+   MARINES (MA) come in a self-contained shuttlecraft that is launched
+from a Tube like a Missile and has its own Drive setting.  If it hits,
+the platoon takes over the ship, unless there are Marines present on
+board.  If this is the case, both platoons are eliminated.  If the
+Marine craft misses, it must wait till combat ends to be picked up by a
+friendly ship.  If friendlies lose, the craft is destroyed.  Marine
+shuttles ignore Screens.  Ships captured by Marines are wholly owned by
+the capturing player.  Captured ships may not participate in the combat
+during which they were captured. Cost 1 BP.
+
+SECTION II: MOVEMENT
+
+"Movement Points" in this section are non-combat 'strategic' movement
+points and do not alter normal combat rules.
+
+*1. Movement points of Warpships equal one-half of PD rating, round up.
+
+2. Warp generators cost 3 BP + maximum movement point value, e.g. to
+build a warpship with 4 movement points, 7 BP must be spent
+on the warp generator.
+
+3. Warp generators produce (3 + Tech Level) Movement Points for non-
+combat movement only.  Warpships may have more than one warp generator.
+
+4  Tactical speed is goverened by a thrust/weight ratio: In combat,
+tactical speed is determined by the following formula:
+
+      THRUST=(6+Tech Level) x (D allocation)
+      ---------------------------------------  =  SPEED
+      WEIGHT=total number BP for construction
+
+5. To travel n space (not warpline) hexes requires at least n squared
+undamaged PD units.  For example, if in one turn a ship moves, 1 hex to
+reach a star, then travels two warp line segments, and finally travels 2
+more space hexes, it would require 11 PD = (1+1+1 space)^2 + 2 warpline.
+
+SECTION III: ECONOMICS
+
+* 1. Star Ownership:  A star is owned by a player if 1. there is a
+friendly starbase and no enemy ships present or 2. there are friendly
+ships and no enemy ships present.
+
+* 2. Scrapping: Ships may be scrapped for 1/2 their current total BP
+value.  Ships may only be scrapped at Bases during the Build event.
+
+* 3.  BP Collection: Each Star has a basic BP value, determined before
+play. A good range is 0-5.  During the Build event of a player's turn,
+he collects BPs on all owned systems.  If a friendly Base is present,
+the player collects double the BP value of that system and may stockpile
+the BPs on that Base; if no Base is present, the basic BP value is
+collected and the BPs must be immediately stored in a ship's Hold or
+they are lost.  BPs may not be transferred between Stars except in
+Holds; BPs may not be transferred between ships.
+
+* 4. Bases: A Base costs 30 BP.  These BP need not all be spent in the
+same turn, but they must be brought in Holds to the star on which the
+Base is to be built.  A record must be kept of the progress of Base
+construction on the star.  If an enemy ship is present unopposed at the
+end of the enemy's turn on the star where there is an incomplete Base,
+that Base is destroyed and all BPs spent are lost.  BP received from a
+star may not be used to build a Base at that star in the turn they were
+received.  A Base doubles the basic BP production of a system.  A Base
+is destroyed automatically when enemy ships are present unopposed on the
+Star hex at the end of the enemy's turn.  One half of all BPs present on
+the destroyed Base can be immediately picked up by ships in the system
+if they have sufficient Hold space.   Any BPs not immediately picked up
+are lost.  Only one Base may be built on each star hex.
+
+5.  This is the order of actions in the Build event, using the above
+rules:
+
+1. Build:
+  (a) Receive new Build Points from owned stars according to the
+      economics rules.  Add to stockpiles and record current base
+      totals.  Load or unload system BPs into Holds.
+  (b) Scrap old ships at bases and add Build Points to base stockpiles.
+  (c) Build new ships and Bases, repair and resupply old ships.
+      Subtract expenditures from Base totals  New ships are placed on
+      the Star they were built at.
+
+6. Colonies: A Colony is an upgraded Base.  A Base may be upgraded to a
+Colony if 30 BP are spent at the Base; the BPs need not be spent all at
+once, but they must be spent at that system, either from the system's
+own production or from Holds of ships present.  A Colony quadruples the
+basic BP production of a system.  Colonies may not be destroyed.  If a
+player captures an enemy Colony, BP production is reduced to 2x basic
+value. Colonies may be recaptured.  Optionally, Bases may be capable
+only of repair and resupply, and stockpiling BPs, while Colonies are
+able to build as well as repair, resupply and stockpile.
+
+7. Half cost repairs:  Each BP spent on repairs rebuilds 2 points of
+ship component.
+
+8. Ordered ship design:  Ship attributes, excepting Warp Generators and
+Repair Bays, must be arranged in order on the ship record sheet.
+Attributes may be placed in any order, except that Missiles must always
+be listed in groups of three, and Shells in groups of six.  Damage must
+be taken on attributes in order starting from the far right and
+proceeding leftwards.  Likewise damage must be repaired starting with
+the leftmost (i.e. the most recent) damage on the sheet.  Missiles and
+Shells are fired from left to right.
+
+      EXAMPLE:  A Warpship with the attributes W2: PD=7 B=3 S=2 T=1 M=3
+      E=2 could be arranged like so:
+
+      W2: PBTMMMPEPSPBPBPSPE
+
+      After taking three effective hits of damage, W2 would look like
+      this:
+
+      W2: PBTMMMPEPSPBPBP{SPE}
+
+      The next attribute to take damage would be a P/D unit, then a Beam
+      factor.  If W2 made it back to base in the above condition, the
+      first attribute that would have to be repaired would be a Screen
+      unit, then a Power unit,  then an ECM factor.
+
+SECTION IV: TECH LEVELS
+
+* 1. Tech increases one level every six turns.  Thus ships built in
+turns 1-6 are tech level 1, those built during turns 7-12 are tech level
+2, during 13-18 tech level 3, and so on.
+
+2. Tech levels do not increase automatically for all weapon systems -
+they must be bought in three separate types.  The three types of
+technology are Energy, Guided and Kinetic.  Energy TL is applied to
+Screens and Beams; Guided TL is applied to Missiles and ECM; and Kinetic
+TL is applied to Shells and Armor.  Players are not required to develop
+technology, nor are they required to develop all technology types
+equally.  Each Tech Level costs 10 BP x level desired.  BP spent on
+technology does not have to come from the same planet or be spent at the
+same time.  BP spent on technology is cumulative.  Technology levels
+never decrease.  Players may not gain more than one tech level per type
+per turn.  Tech levels may be traded to other, allied players in a
+multiplayer game, at a rate of one TL per one TL: e.g., a player may
+trade offer his Kinetic TL 3 in return for Energy TL 2, both players
+gaining no more than one level.  Technology may be stolen: a player
+steals tech when he captures a star with a Base from a player with a
+higher TL.  If the difference between the players' TL is only 1, the
+capturing player gets 5 BP towards his next TL in all applicable types.
+If the difference is 2, he gets 4 BP; if 3, he gets 3 BP and so on.
+These BP may not be used in construction, only for TL.  Example: Player1
+(TL: E:1 G:3 K:2) captures a star with a Base from Player2 (TL: E:3 G:1
+K:3).  Player1 gets 4 BP towards E:2 and 5 BP towards K:3.
+
+3. Screens subtract their TL from each separate hit, not from total
+damage received.
+
+      EXAMPLE: two beam 2 hits on a screen 3, both ships at equal TL:
+
+      tech 0 ((2+0)  +  (2+0))  - (3 +0 +0)   = 1
+      tech 2 ((2+2)  +  (2+2))  - (3 +2 +2)   = 1
+      tech 5 ((2+5)  +  (2+5))  - (3 +5 +5)   = 1
+
+      tech 5 vs tech 4, same weapon, shield mix 2x2 attacking, 3
+      defending
+
+      tech 5 firing vs tech 4
+      ((2+5)  +  (2+5))  - (3 +4 +4)   =  3
+      tech 4 firing vs tech 5
+      ((2+4)  +  (2+4))  - (3 +5 +5)   = -1 (no damage)
+      tech 1 firing vs tech 0
+      ((2+1) + (2+1)) - (3 + 0 + 0) = 3
+      tech 0 firing vs tech 1
+      ((2+0) + (2+0)) - (3 + 1 + 1) = -1 (no damage)
+
+4. Tech increases one level per tech type (as above) every two turns.
+      Like so:
+
+      Turn 3: Energy TL +1
+      Turn 5: Guided TL +1
+      Turn 7: Kinetic TL +1
+      Turn 9: Energy TL +2
+      Turn 11: Guided TL +2
+      Turn 13: Kinetic TL +2
+
+      and so on.
+
+5.  For every tech level over 0, increase beam or screen effectiveness
+by 1/3.  Thus, a 5-point beam at tech level 3 will do 10 points of
+damage, and a 7-point screen at tech level 2 will absorb 35/3, or 12
+points of damage (7 + 14/3 = 11 2/3 = 12 rounded up).
+
+SECTION V: COMBAT
+
+* 1. After 3 rounds of no combat, attacking Systemships are destroyed if
+they cannot be picked up by retreating Warpships.
+
+* 2. Warpships may pick up or drop as many Systemships per combat round
+as they have Systemship Racks.  Each SR may EITHER pick up OR drop one
+Systemship per combat round.
+
+3. Ramming is a new combat tactic.  When ramming is selected, all energy
+must be allotted to drive and no energy may be allotted to weapons sys-
+tems.  For incoming fire, the ramming ship is regarded as using the at-
+tack tactic.  All normal combat for the round is resolved and any damage
+that the ramming ship takes is subtracted from its drive setting before
+the collision.  The energy in the ship's drive is then applied as damage
+against the enemy ship that is the target of the ramming.  The ramming
+ship is automatically destroyed.  The drive differences between ships
+are ignored.  It is assumed that ramming takes one by surprise and thus
+can not be dodged.  Likewise the target ship's battle tactic has no ef-
+fect.  If there is any energy in the drive the ramming will succeed.
+Only one enemy ship can be rammed with each friendly ship.
+
+4. Reserve Power Allocation:  As orders are written, a player may allo-
+cate power factors to his 'reserves'.  This power may then be added to
+the various ship systems to increase their effectiveness.  Reserve Power
+may not be transferred to Beams or Tubes, nor to any system which does
+not already have *some* power already allocated to it.  Power in re-
+serves is released as follows: After combat tactics and weapons fire of
+each ship is known (i.e., Attack & fire beam, or Dodge & fire missiles)
+power may be transferred to screens.  After this, both sides reveal beam
+strength, targets and drive allocations of their missiles (beam targets
+are revealed before screens are increased), and initial drive alloca-
+tions for ships.  Any power remaining in reserve may be used to change
+that ship's drive setting, *either up or down.*  Combat is then resolved
+in the normal manner, using the altered screen and drive values.
+
+5. Hulks:  Any ship that is destroyed has its counter inverted, not re-
+moved, to represent no energy output and warp generator shut-off.  An
+inverted ship is considered adrift in combat, which means all attacks
+hit with +1 damage.  An inverted ship (warpship or systemship) can be
+picked up by a player's warpship as long so there are no enemy ships in
+the same hex.  A player MAY pick up an opponent's inverted ship.  A
+player may at any time voluntarily power-down any of his own ships
+merely by inverting it.  While a ship is powered down it cannot move,
+attack, and is treated as a destroyed ship, even to the point of being
+scrappable by the opponent.  A player is not required to tell his oppo-
+nent which ships are dead and which are powered-down.  A ship that is
+powered-down for more than 3 turns is destroyed, due to death of crew
+from unrecirculated air.  A powered-down ship may power-up at any time,
+including while in another warpship's systemship rack.  The first combat
+round after powering-up a ship's screens, beam and missiles are at half
+strength.  If not carried by a warpship, drive is at zero.  If a ship
+attacks the warpship carrying it, the warpship is always hit at +2.
+Screens do not stop any hits in this case.  A warpship cannot attack any
+ship it is carrying.  All it can do is take its lumps that round, eject
+the ship, and attack next combat round.
+
+EXTRA BONUS SCENARIO
+
+WarpChess, or, Archon in Space
+
+WarpWar is sort of like Archon, with simple strategic movement but
+bloody tactical fighting.  So here is the variant to play WarpWar like
+Archon.
+
+First: Make a decent sized map.  One way to do this is to xerox (tm) the
+original map twice and attach the two copies together side by side with
+the ends facing opposite directions.
+
+Next: Take a large number of BPs, say 200, and design a "set" of ships
+to use.  Both players will use identical forces.  No systemships.
+
+Set up the fleets in a uniform manner.  Flip a coin and go to it.  Each
+player can only move 3 ships per turn.  Systemships, economics, tech
+levels, and repair and resupply rules are not used.  Missiles and Shells
+are automatically resupplied at the end of every player turn.  Game ends
+when one side is destroyed; alternatively, both sides can designate a "king"
+piece, the destruction of which ends the game.
+
+

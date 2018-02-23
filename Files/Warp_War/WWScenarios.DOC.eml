@@ -1,0 +1,303 @@
+From: emc@m-net.arbornet.org (Evan M Corcoran)
+Subject: Eldon Tannish
+
+from Space Gamer #14
+Eldon Tannish & The War Of The Warp
+by Dana Holm
+
+     WarpWar is a beautiful little game.  It has several interesting
+features - designing your own ships, simultaneous combat, and diceless
+combat resolution.  However, the game suffers from being to evenly bal-
+anced.  Whoever moves first has the advantage.
+     To overcome this first move advantage, a scenario where no stellar
+movement takes place has been designed.  This scenario also uses an un-
+balanced initial force allotment with differing reinforcement rates
+which is one cure for a symmetrical game.
+     The idea for this scenario comes from the Eldon Tannish story in
+THE SPACE GAMER #5.  Here, Eldon was defending a planet against attack.
+This one game had no other players, only Eldon and the computer.  He was
+given an allotment of resources to construct his defenses.  This was the
+point that caused me to try the WarpWar game system.  There is a two
+player version or a solitaire version, to be played against a paper com-
+puter.  Like Eldon, you will lose!  The idea is to see how long you can
+hold out.
+
+TWO PLAYER VERSION - Eldon Tannish (Komal) vs. Computer (Kchul raiders)
+
+I.  _Introduction_ - All ships used in this game are _systemships_.
+    Eldon has been left by a warpship to protect this border world.  The
+    Kchul ships are carried into the system and dropped beyond sensor
+    range by two warpships acting like ferries.  The two warpships never
+    appear in the game.  Since all action takes place at one star sys-
+    tem, the map and counters are not needed.  They are useful as memory
+    aids or for visual effect.  Watch Eldon quiver when you have 13
+    ships against his one remaining defender.
+
+II. The Game
+
+    A. The game is played on two levels using two types of turns.
+       1. The strategic level (strategic turn)
+          a. All building, repairing, and resupply takes place at this
+             time.
+          b. No combat ever occurs during strategic turns.
+          c. The game starts with a strategic turn.
+          d. Every fifth turn thereafter is a strategic turn.
+       2. The tactical turn (battle turn or tac turn)
+          a. Combat takes place during battle turns.  No building ever
+             does.
+          b. There are four (4) battle turns between each strategic
+             turn.
+          c. Victory conditions are in terms of battle turns (see
+             section V)
+
+    B. Only strategic turns count toward the technological level rule.
+       On strategic turn 5 (after 16 battle turns) the technological
+       level goes up one as per regular WarpWar rules.
+
+III. Player building point (BP) allotments
+
+    A. Eldon Tannish (Komal)
+       1. Initial allotment - 50 BP
+       2. Reinforcement-repair-resupply allotment - 25 BP per strategic
+          turn.
+       3. Eldon may build things other than ships (See section IV)
+
+    B. Computer (Kchul raiders)
+       1. Initial allotment - 30 BP
+       2. Reinforcement-repair-resupply allotment - 25 BP per strategic
+          turn.
+       3. Kchul raiders may build only ships.
+       4. Kchul raiders must use each allotment as it arrives.  He may
+          not save up BP's.  Any unused BP's at the end of a strategic
+          turn are lost.
+       5. The Kchul player does not have to commit his force to battle
+          on the first turn.  He may enter any or all of his force at
+          any time during the course of the battle, during a battle
+          turn.
+       6. Once a Kchul ship has entered, it stays until the end of the
+          game.
+
+IV. Special rules
+
+    A. Eldon's ship restrictions
+       1. Eldon may build ship(s) from his _initial_allotment_only.
+       2. No BP's have to be spent on ships.  All BP's may be spent on
+          ground defenses.
+
+    B. Ground defenses - Eldon may build these with any allotment of
+       BP's.  He may build either or both types.
+       1. Ground energy projectors (GEP)
+          a. GEP's cost 2 BP's for a one strength point unit.  (This
+             reflects the gun and the power plant needed to operate it.
+          b. GEP's may be built only in one strength point denomina-
+             tions.
+          c. As many of these one strength units as desired may be
+             produced, within the amount of BP's available.
+          d. It takes one missile or one beam hit to destroy a GEP.  Any
+             extra force is wasted.  (Attacking with one ship firing a
+             beam of 10 only destroys one GEP.  This is because of their
+             geographical separation.)  Each GEP must be attacked
+             separately.
+          e. GEP's may combine attacks on enemy ships in any desired
+             combination.
+          f. GEP beams are assumed to have a speed of one (1) when
+             attacking.
+          g. GEP's use the attack tactic when firing, the retreat tactic
+             when not firing.
+          h. GEP's may not be attacked until: they have fired or until
+             all friendly ships have been destroyed or have had their
+             firepower destroyed.
+       2. Ground launched missiles (GLM)
+          a. GLM's are in all respects like spaceship launched missiles
+             except that their maximum speed is six (6).  (The atmo-
+             sphere slows them.)
+          b. GLM's are purchased at the cost of 2 GLM for one BP.  (This
+             includes the cost of launching apparatus)
+          c. Because of their small size and easy-to-hide character-
+             istics, GLM's may not be attacked from the air.  (Refer to
+             victory conditions, section V.)
+
+    C. Special uses of existing weapons
+       1. Kchul raider attack against ground targets.
+          a. When using missile attack, the ship may use any drive
+             setting and any tactic.  The missile may be at any speed.
+          b. When attacking with beams (since the attacker would have to
+             enter the atmosphere to achieve accuracy) the attacker must
+             use the attack tactic and can use drive settings of only 3
+             or less.
+       2. Eldon's technological gain - Starting on strategic turn five,
+          if Eldon has any ships left, those ships gain the capability
+          to absorb energy from GEP's.
+          a. GEP's may be fired singly or in any combination at Eldon's
+             ships, instead of firing at enemy ships.
+          b. Instead of damaging Eldon's ships , the energy is absorbed
+             and added to the current P/D or energy pool for the ship.
+             It then acts in all ways like energy generated by the
+             ships' engines.  It is possible to have a higher P/D than
+             the ship was originally designed with.  This in no way
+             harms the ship.
+       3. Ramming (Optional rule) - The players should decide if both,
+          neither or just one player can use this option.  This will
+          change the play balance some.
+          a. When ramming is selected as a tactic, no energy can be
+             expended on beams, screens or launch tubes.  All energy
+             must be allotted to drive.
+          b. Ramming takes place after all fire for that turn has been
+             resolved.  Also any damage that the ramming ship takes is
+             subtracted from its drive setting before the collision.
+          c. Only one enemy ship can be rammed with each friendly ship.
+          d. The energy in the ship's drive is applied in one large
+             explosion against the enemy ship that is the target of the
+             ramming.
+          e. The ramming ship is automatically destroyed.  (The drive
+             differences between ships are ignored.  It is assumed that
+             ramming takes one by surprise and thus can not be dodged.
+             Likewise the target ship's battle tactic has no effect.  If
+             there is any energy in the drive the ramming will succeed.)
+
+V. Victory conditions
+
+   A. It is best to play a set of two games.  Each players designs his
+      starting force for both sides.  Then play a set of two games.  The
+      person lasting longest as Eldon wins.  Eldon is finished (beaten)
+      when all GEP's and all ship's firepower have been destroyed.
+      GLM's may remain but they do not count as firepower.  If each
+      Eldon player goes out on the same turn, the Kchul player with the
+      largest BP total on the board would win.
+
+   B. For those players wanting to play only one game - count the number
+      of battle turns that Eldon lasts.
+      1. 8 or less - You didn't make the finals.  In fact, how did you
+         get this far? - Strategic Kchul victory
+      2. 9 - 12 turns - No finals here either. - Decisive Kchul victory
+      3. 13 - 16 turns - Tactical Kchul victory
+      4. 17-20 turns - You made the finals!! - Moral victory for Eldon
+      5. 21 - 24 turns - That humming you hear is the computer getting
+         mad!
+      6. 25-28 turns - You tied the record
+      7. Longer than 28 turns - The computer must be broken!
+
+SOLITAIRE VERSION - Eldon Tannish vs. Computer
+
+I. This game is like the two player version with a few changes so the
+   dumb computer has a chance.  It requires the use of a die to make
+   decisions for the computer.
+
+II. The changes
+
+    A. The computer starts with twice the force he had in the basic two
+       player version.  The computer's starting forces are: S4, S5, S8,
+       and S13 (Refer to the computer's ship characteristics chart.)
+
+    B. The computer must enter into battle, on battle turn one.  It may
+       never hold back forces.  Its reinforcements come in as fast as
+       they are generated.
+
+    C. Sequence of play
+       1. Enter computer's ships.
+       2. List targets for Eldon's ships and ground defenses.  Allot P/D
+          points.  PIck tactic.
+       3. Use the computer target table to pick target for each of the
+          computer's ships.  If Eldon had more than one ship roll a die
+          to see which is attacked.
+       4. Use the tactic table to decide what tactic each of the
+          computer's ships is using.  Remember a beam ship attacking a
+          ground target _must_ use the attack tactic.  If any ground
+          attacks are made when there are no targets, the attack is
+          wasted.
+       5. Determine the setting of the ships' offensive weapons (beams
+          or tubes) by rolling one die.  Any number in excess of number
+          of offensive weapons is ignored.
+       6. Determine the screen setting of ships carrying screens and not
+          using missile by rolling one die.  Again ignore any excess die
+          rolling.
+       7. Any remaining energy is used for the drives.  If the drive/
+          power does not contain enough energy to run offensive and
+          defensive weapons, the defense suffers first until it is zero,
+          then the offensive setting is reduced to the P/D setting.  Any
+          ship with P/D = zero is considered destroyed.
+       8. Resolve all attacks.  Damage does not take effect until all
+          firing is finished.
+
+    D. When the Kchul fires a missile, determine its speed by rolling
+       one die.  That number is the missiles speed unless the number
+       rolled is a one (1).  In that case, roll the die twice and add
+       the two rolls together to get the missile's speed.
+
+    E. The largest drive setting Eldon's ships can use during the game
+       is _six_.
+
+    F. Kchul resupply
+       1. Each strategic turn the Kchul receives new ships and repair
+          points according to the Kchul generation table.
+       2. In addition, roll one die - the Kchul gets this number of
+          additional repair points.
+       3. Repair points are always distributed as evenly as possible.
+          When in doubt, roll a die.
+       4. All Kchul missile firing ships are automatically reloaded up
+          to their original capacity.
+
+III. CHARTS
+
+     A. KCHUL SHIP CHARACTERISTICS TABLE
+
+          S1   S2   S3   S4   S5   S6   S7   S8   S9   S10   S11   S12
+         --------------------------------------------------------------
+     P/D|  8    4    4    6   10    3    6    1    2    7     7     12 |
+     B  |  4         2         5         3         2                 6 |
+     S  |  2         1         4         1                           6 |
+     T  |       3         4         2         1         4     6        |
+     M  |       9        12         6         3        12    18        |
+         --------------------------------------------------------------
+
+     B. KCHUL SHIP GENERATION CHART (Kchul Reinforcement-Repair Chart)
+
+                                 2nd Die Roll
+          1          2          3          4         5          6
+First
+Die    ---------------------------------------------------------------
+Roll  | S1,S2      S5,S3      S2,S7      S4,S8,S9  S1,S3     S10,S6   |
+1     | + 1 RP                + 5 RP     + 4 RP    + 4 RP    + 2 RP   |
+      |---------------------------------------------------------------|
+2     | S5,S6      S7,S7,S8   S12        S6,S6,S6  S1,S2     S4,S6,S9 |
+      |            + 1 RP     + 1 RP     + 4 RP    + 1 RP             |
+      |---------------------------------------------------------------|
+3     | S3,S11     S1,S7      S2,S2      S3,S10    S2,S4     S2,S4,S6 |
+      |                       + 5 RP     + 2 RP    + 1 RP    + 1 RP   |
+      |---------------------------------------------------------------|
+4     | S1,S3,S9   S8,S9,S10  S3,S5,S8,  S4,S5,S9  S12       S3,S4,S9 |
+      |            + 3 RP     S9 + 1 RP            + 1 RP    + 1 RP   |
+      |---------------------------------------------------------------|
+5     | S6,S7,S8,  S2,S7,S8   S2,S3,S6   S3,S5     S10,S7    S2,S7,S8 |
+      | S9 + 1 RP  + 2 RP                + 4 RP              +2 RP    |
+      |---------------------------------------------------------------|
+6     | S3,S4,S8   S8,S11     S5,S9      S4,S7     S2,S7,S8  S7,S10   |
+      | + 1 RP     + 3 RP     + 2 RP     + 1 RP    + 2 RP             |
+       ---------------------------------------------------------------
+
+RP = repair points
+
+     C. KCHUL TARGET SELECTOR  -  roll one die
+
+         1 - 5  attack a ship (when no ships remain, attack a ground
+                unit)
+           6    make an attack on a GEP (If there are none, the attack
+                is wasted)
+
+     D. KCHUL TACTIC SELECTOR  -  roll one die
+
+         1 - 3  attack tactic
+         4 - 6  dodge tactic (unless it is a beam ship on a ground
+                              attack, in which case the attack tactic
+                              must be used)
+
+IV. PLAY AIDS - Of course you have to keep track of the damage levels of
+the ships on both sides.  I find that making a set of tracks for each
+side and using flipped over counters it is easy to see at a glance what
+level each of the ship characteristics are at.  A second set of right
+side up counters can be used to show what level each item is being used
+at the current turn.  Actually, one set of tracks per side will work be-
+cause Eldon usually doesn't have many ships and attacks can be resolved
+one at a time.
+
+

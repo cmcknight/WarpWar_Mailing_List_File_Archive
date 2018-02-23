@@ -1,0 +1,46 @@
+From emc@m-net.arbornet.org Sun Jul 17 00:25:44 1994
+From: emc@m-net.arbornet.org (Evan M Corcoran)
+
+                      EXPANDED COMBAT RESULTS TABLE
+
+Firing                              Target Ship Tactics
+Ship        DRIVE
+Tactics     DIFFERENCE      ATTACK          DODGE          RETREAT
+
+ A          -3 or less   Miss (Miss)     Miss (Miss)    Escapes (Miss)
+  T         -2           Hit (Hit +1)    Miss (Hit)     Escapes (Miss)
+            -1           Hit (Hit +2)    Miss (Hit)     Escapes (Miss)
+    T        0           Hit +2 (Hit +2) Miss (Hit)     Miss (Hit)
+     A      +1           Hit +2 (Hit)    Miss (Hit)     Miss (Hit)
+            +2           Hit +1 (Hit)    Hit +1 (Miss)  Miss (Miss)
+       C    +3           Miss (Miss)     Hit (Miss)     Hit (Miss)
+        K   +4           Miss (Miss)     Hit (Miss)     Hit (Miss)
+            +5 or more   Miss (Miss)     Miss (Miss)    Miss (Miss)
+
+ D          -4 or less   Miss (Hit)      Miss (Miss)    Escapes (Miss)
+            -3           Miss (Hit)      Hit (Miss)     Escapes (Miss)
+   O        -2           Miss (Hit +1)   Hit (Miss)     Escapes (Miss)
+            -1           Hit (Miss)      Hit (Miss)     Escapes (Miss)
+     D       0           Hit (Miss)      Hit (Hit)      Escapes (Miss)
+            +1           Hit (Miss)      Miss (Hit)     Escapes (Miss)
+       G    +2           Hit (Miss)      Miss (Hit)     Escapes (Miss)
+            +3 or more   Miss (Miss)     Miss (Hit)     Escapes (Miss)
+         E  +4           Miss (Miss)     Miss (Miss)    Escapes (Miss)
+
+  R         -5 or less   Miss (Miss)     Miss (Escapes) Escapes (Escapes)
+   E        -4           Miss (Hit)      Miss (Escapes) Escapes (Escapes)
+    T       -3           Miss (Hit)      Miss (Escapes) Escapes (Escapes)
+     R      -2           Miss (Miss)     Miss (Escapes) Escapes (Escapes)
+      E     -1           Hit (Miss)      Miss (Escapes) Escapes (Escapes)
+       A     0           Hit (Miss)      Miss (Escapes) Escapes (Escapes)
+        T   +1 or more   Miss (Escapes)  Miss (Escapes) Escapes (Escapes)
+
+EXPLANATION OF COMBAT RESULTS
+
+MISS: The MISS result means the weapons fired missed the target ship, and no damage was done.
+ESCAPES: The ESCAPES result means that the ship that selected the RETREAT combat tactic successfully withdrew from its enemy and escaped.  In order to ESCAPE, a retreating ship must simultaneously obtain the ESCAPE result against EACH enemy ship (not Missile) that fired on it.
+HIT: The HIT result means that the Beam or Missile or Shell(s) fired at the target hit it.  A Beam which hits does damage equivalent to the power of the Beam, plus tech level.  A Missile which hits does 2 hits damage, plus tech level.  Shellfire which hits does 1 hit of damage per Shell, plus tech level per burst.  "HIT +1" and "HIT +2" mean you add one and two hits, respectively, to the hits of damage inflicted by the weapon.
+
+Results in (parentheses) are RECIPROCAL.  That is, if both ships use Beams and/or Cannons, only one intersection need be looked at to learn results for both ships.
+
+

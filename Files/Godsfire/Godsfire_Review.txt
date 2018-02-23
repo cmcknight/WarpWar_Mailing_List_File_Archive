@@ -1,0 +1,192 @@
+Subject: Godsfire review
+From: heli@nospamplease.best.com (Richard Heli)
+
+Hi,
+
+This is a re-post of a rec.games.board review
+from November 23, 1987 that I had archived and
+recently re-discovered.  I trust that enough time
+has passed for it to be of interest again. :)
+The comments may be partly dated, but still interesting.
+
+Repost begins here:>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+The Long Awaited Godsfire rules/review.
+
+In this game there are 15 planetary systems and 7 national
+governments.  The planetary systems are both on the strategic
+(combat) map and on a separate planet display (combat and political).
+The national governments exist on a separate government display
+(political only).
+
+------------------------------------------------------------
+
+GENERAL GAME:  Each of the 4 continents in a planet has 3 political
+alignments:  Extremist, Reactionary and Moderate.  Each political
+type, when in power, will allow the industry to build only one of
+the three types of combat ships.  Briefly, Extremists will build
+ships for deep space, Moderates will build flexible assault groups,
+and Reactionaries will build Planetary Defense Forces (which also
+help suppress riots).  Only the Moderates will increase the economic
+standing of a region.  Money is used to build ships, increase economic
+standing and subvert other planets.  It comes from taxing the people.
+Extra money may be borrowed from the bank via the national government.
+(Note:  I am not including the battle rules.)
+
+PLANETS are divided into 4 regions, each having separate industry,
+political alignment, and "combat zone".  Each region has 5 economic
+levels ranging basically from subsistence, A-1 (agriculture), A-2,
+I-1 (industry) and I-2.  Each industrial region must border an A
+region of the same level or higher.  If this is not met then the
+industrial region must fall to an appropriate level (I-1 or A-2).
+An industrial region can lose its supporting A region due to foreign
+occupation of that region (forcing the I region to become A-2) or
+prolonged revolt.
+
+A player can change the party in power in a region by lowering its
+allegiance to 2 (lowest peaceful) and rolling a die.  50-50 chance
+of it succeeding (or else revolt).  An Extremist or Reactionary will
+become Moderate and a Moderate rolls a die to determine where it goes.
+
+Each political party (in a region that is) has an allegiance index
+that changes downward due to
+
+        a) subversion on the part of your opponents
+        b) envy over your spending in another region
+        c) overtaxation
+        d) neighboring region in revolt
+
+and changes upward due to
+
+        a) spending to increase loyalty
+        b) police enforcement (form revolt to lowest peaceful status)
+
+------------------------------------------------------------
+
+The above system is the ONLY serious Poli-Eco game system I know of.
+Others are:
+
+        Supremacy               Economic ONLY
+        Junta                   Not Serious
+        Borderlands             Economic ONLY
+        Stellar Conquest        Economic ONLY
+
+Games like Diplomacy, Supremacy and Borderlands have Politics only
+in that "Politicking" with your neighbor is allowed BUT IS NOT IN
+THE RULES.  In Godsfire you have to manage revolts in your system
+that sometimes were NOT caused by your opponents.  The politics
+are written in the rules AND you can further add diplomacy to your
+dealings with your neighbor.
+
+Mike Davis
+
+Repost ends here:>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+The game was designed by Lynn Willis and published by Metagaming in
+1979.
+
+From: "Pasha and Rick Smith" <pnrsmith@istar.ca> 
+Subject: Further review of Godsfire 
+
+
+I completely agree with Richard Heli's review, this
+is more philosophical musings on the game that are
+intended to expand on what he wrote.
+
+
+
+I love science fiction war games so I'm predisposed
+to like this game, and I do. However I feel that
+this is a good game, not a great one.
+
+
+Mr. Heli, points out some of the nicer points of the
+game. Basically this game is not the same old - same
+old. It does things differently.
+
+
+The movement system is another example of this, Mr.
+Lynn Willis (the designer) has an impulse movement
+system where each turn, players will have several
+chances to move a unit. People will be tempted to put
+off moving their units until them enemy has moved so
+as to be able to react. However if you wait too long,
+you can lose the chance to move at all, if the other
+players suddenly pass movement options and end the
+phase.
+
+
+The science fiction 'chrome' is nicely developed. In
+particular I like the idea of the awesome sounding
+weapons breaking open time / space and allow a wave
+of deadly radiation from a 'hyper super nova' to
+sweep thru space. This destroys all units in space
+and devastates half of all planets (the side facing
+Godsfire).
+
+
+The players actions can cause Godsfire (people are
+always tempted to overstack to bring more fire power
+to bear). The game does not end after Godsfire, players
+must rebuild after the disaster, and some sub-optimum
+strategies for economic development can give a benefit
+to recovering from the disaster.
+
+
+However the game has problems:
+First it is too large, complicated and long to be a
+comfortable fit with my gaming group. The rules are
+dense, and take careful reading in places to figure out
+what is going on.
+
+
+The game play is best with more players, but that slows
+this already slow game down even more.
+
+
+Also some of the really interesting parts of the game,
+don't quite flow. The initiative movement system I
+briefly outlined above is much slower than just moving
+your units in turn.
+
+
+I think an argument could be made that the designer
+tried to innovate too much in this game. It has a unique
+political system / 3D map system / movement phasing
+system / economic system and they all go together pretty
+well. But they don't seem to mesh perfectly.
+
+
+The last time I played Godsfire, I made movement of military forces turn
+based, which hurts the game but
+greatly speeds play.
+
+
+
+However a gaming group which is not intimidated by
+long complicated games, may really enjoy this game.
+
+
+If you are interesting in playing Godsfire, I've often
+seen copies on EBay which sell for ~$12.00 to $15.00.
+Even better, if you live in the Vancouver B.C. area
+give me a call!
+
+
+
+If I have time to do some organizing and cleaning up,
+I'll try to post some optional rules for the game.
+
+
+Publishing Note:
+Task Force Games bought the rights to Godsfire and
+published a new version of it several years ago. This
+newer version is identical except that you only get 4
+colors of counters rather than 8 in the Metagaming
+edition (you could special order the missing colors).
+
+
+
+Rick Smith
+pnrsmith@istar.ca
+(604) 939 - 0166

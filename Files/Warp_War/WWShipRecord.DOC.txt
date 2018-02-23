@@ -1,0 +1,53 @@
+From emc@m-net.arbornet.org Sun Jul 17 00:28:44 1994
+From: emc@m-net.arbornet.org (Evan M Corcoran)
+
+WARPWAR SHIP RECORD SHEET
+-------------------------
+
+SHIPID:              TECH LEVEL:
+NAME:                DATE BUILT:
+TYPE:                TOTAL COST:
+NATIONALITY:         SHIPYARD:
+
+ENGINES
+-------
+
+Warp Gnrtr: [_]
+Pwr/Drv:    [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+            [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+
+ARMAMENT
+--------
+
+Energy TL:  [__]
+Screens:    [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+Beams:      [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+
+Guided TL:  [__]
+Tubes:      [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+Missiles:   [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+            [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+ECM:        [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+
+Kinetic TL: [__]
+Cannons:    [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+Shells:     [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+            [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+            [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+Armor:      [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+            [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+
+CARGO
+-----
+
+Repair Bay: [_]
+Ship Rcks:  [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+Ships:
+Holds:      [_|_|_|_|_I_|_|_|_|_I_|_|_|_|_]
+BPs:
+
+SHIP'S LOG
+----------
+
+
+

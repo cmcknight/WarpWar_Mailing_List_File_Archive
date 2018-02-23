@@ -1,0 +1,105 @@
+Warpwar Play by Email.  henry_cobb@yahoo.com $Id: wwpbem.txt,v 1.2
+2005/06/03 20:15:51 hcobb Exp hcobb $
+
+I'm refereeing a Campaign warpwar game so it's my rules and here they are.
+
+The timetable is that players will sign up by June 5th, get their starting
+systems by June 6th and have their first turn orders due by June 11th with
+weekly turns thereafter.
+
+Use the printed Warpwar rules along with Steve Jackson's campaign rules
+http://grognard.com/variants/warpwar1.txt with the following
+modifications.
+
+The map is known ahead of time because all sides are assumed to have
+invented telescopes centuries before the game starts and they can predict
+mathematically where warp lines should be given the locations of the stars
+in the skies.
+
+Just for convenience sakes we'll use the Imperium map because everybody
+will either own a physical copy or they can download a copy from this URL.
+
+http://www.kentaurus.com/downloads/ip001.pdf (See page 5)
+
+Ignore Altair, Luuru and Smade's Star.  And since that map doesn't include
+hexes, movement is restricted to just warp lines.
+
+The red planet boxes are secondary systems (Star types K5+ and M#) and only
+worth 2d-4 build points (might be zero).  White planet boxes are primary
+systems (Star types F#, G# and K0-4, except Sarpedon and Procyon which are
+secondary systems for no good reason) worth 2d build points and they always
+have defensive systemships at the start of the game.  Stars without system
+boxes (Star types A# or Wd, i.e. Sirius) are worth no points.
+
+Warplines require 4 movement points to use on the first turn of use and are
+then considered surveyed and only require 1 movement point to use on all
+later turns.
+
+At the start of each players turn they lose control of any system (other
+than their home system if no ships from any side are there) that they don't
+have ships at and gain control of any uncontrolled systems they are the
+only side to have ships at.
+
+For example: Player B moves a massive starfleet to Player A's home system
+and destroys all of the defending ships.  At the start of Player A's next
+turn the system will become uncontrolled and all build point stockpiles
+there will be lost.  At the start of Player B's next turn after that (as
+long as his ships are the only ones there) he will gain control of the
+uncontrolled system and start accumulating build points.
+
+Any system that was controlled and then left uncontrolled and is not
+visited by any players ships for at least one turn has a chance of
+developing system defenses.  Roll one die and if the die roll is less than
+or equal to the number of turns the system wasn't visited it will have
+developed a defensive systemship when it is next visited.  Player's
+homeworlds that are left uncontrolled and unvisited revert to the control
+of the original player at the start of their turn.
+
+Binary systems (two adjacent circles on the map) are treated as two
+separate systems one MP apart, except that systemships can move between
+them on a turn when they are not carried by warpships (but they still can
+not choose the retreat option in combat).  Warpships that retreat from
+combat must move to a system that is connected by warpline or the binary
+partner of the current system.  Ships will retreat to a friendly controlled
+system if any are attached to the current system in preference to systems
+that are not friendly controlled.
+
+Every ship must have at least one power drive factor at all times or it
+explodes with no damage to any ship that it isn't carrying.
+
+No ship may expend more power drive factors for warp movement or tactical
+combat drive setting than its tech level plus six.  Ships can be built with
+larger power drive units, but they can't use more than that amount of power
+for movement.
+
+Player's ships are assumed to stop all ships from other players that enter
+their systems and engage them in combat before these ships have a chance to
+move to the next system or drop any systemships, unless the defending
+ships' orders state otherwise.  However if a ship does not stop a warpship
+the moment it enters the system then it cannot change its mind once that
+ship or group of ships starts using movement points to drop systemships
+before combat and/or move on to the next system.
+
+If after three combat rounds no damage has been inflicted on any of the
+ships in a combat that wasn't blocked by shields then combat is over for
+the moving player's turn in that system and any player there can engage the
+other ships in that system in combat on any of their later turns or simply
+load up any friendly systemships there and leave the system during their
+own movement phase, but any other ships that enter that system on a later
+movement phase can be stopped by the defending ships and brought to battle.
+
+Ignore any special rules you see for "fighters", "shells", "armor",
+"holds", etc.
+
+Players can include combat orders for their ships (which can include
+rolling dice) when they mail in their orders or they can choose to conduct
+battles over Yahoo chats.
+
+Players will start the game with 20 build points on their first turn and
+then receive 10 build points at their home system every turn thereafter
+plus the build point values for any other systems they control.  Note that
+by the campaign rules build points may only be spent for construction at
+the system that produces them and there is no way to carry BPs between
+systems, but research expenditures are combined across the entire empire.
+
+-HJC

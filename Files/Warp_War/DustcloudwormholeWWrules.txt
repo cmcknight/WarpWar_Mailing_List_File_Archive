@@ -1,0 +1,36 @@
+for variant Stellar conquest map.
+Bob Blanchett (bob.blanchett@gmail.com, z9m9z.lurgi.org)
+
+Dust Cloud Rules:
+
+1. Dust Clouds hexes are treated as space hexes in all respects except that they cost 2MP to enter. If hex C is a dust hex and the ship is in hex A, the move order would be (B,C,C) expending 3MP.
+
+WormHole rules:
+
+1. The 4 star hexes in dust clouds unconnected by warplines (Vega, Deneb, Pherda and Altair) contain periodic wormholes. Only Warpships may transit wormholes.
+
+2. Destination Selection:
+On a given turn the wormholes have a single common destination: another wormhole..
+At the start of the game an as the last action of each turn the new wormhole destination is selected randomly and announced before moves are submitted the following turn.
+E.g: at the end of the Altair is selected as the wormhole destination. Therefore next turn, ships from Vega, Deneb and Pherda may on the next move phase transit to Altair and Ships may move from Altair to any of the other wormhole star hexes.
+
+
+3. Transiting a wormhole (use any or all optionsal rules ar invent your own):
+a) guaranteed option:
+Ships spend 1 MP and order a move as if transiting a warpline.
+
+b) Tech limited option:
+Players may only transit a number of ships each move equal to their TL +1. players tracking tech levels separately for each attribute may wish to establish a separate WH technology.
+
+c) Volatile wormhole option:
+If unowned, Players submit orders for the wormhole in their sector each turn before move orders are submitted. Otherwise a player submits orders for every wormhole star hex they control.
+To order a destination wormhole, the controlling players pick a Tactic and Drive setting from 0 to 4, modified up or down by TL as they wish.
+These may be kept secret or not until a player transits to a destination wormhole, at the wormhole owners option.
+When each ship or task force transits a wormhole they must submit a combat order (Tactic and drive setting-up to the fleets maximum regardless of MPs expended.) for a single ship or group of ships as they wish and then consult the CRT; the moving player is the firer.
+If the moving player has a higher TL he may modify the drive difference result in the same manner as ECM any amount up to the maximum advantage to achieve a wormhle transit, avoiding damage if possible.
+Hit and Miss results indicate the ordered units have moved to their destination.
+Hit and "Hit +n" results additionally inflict the appropriate damage on a random ship in the moving group.
+Escape results indicate the move failed and ship must expend another movement point in another attempt or wait until next turn if it has no remaining MPs. in only this case, both players concerned submit new wormhole orders (which apply only to the two players in this transit attempt)
+
+EXAMPLE: This turn Altair is the destination wormhole; controlled by the Boskonians(TL1). the BLOB(TL0) have two ships moving together from Ross. The ships move as a PD=4 task force.
+The moving fleet orders (I9,Deneb,Deneb,Altair). The High council of Boskone uses its technology advantage and orders the Deneb wormhole ATTACK D=5 BLOB, not knowing this order their fleet to transit to Altair with DODGE D=4. A random ship in the BLOB fleet takes 1 hit and the fleet moves successfully.

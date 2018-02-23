@@ -1,0 +1,92 @@
+Instant Systemships.
+
+Try this the next time you need a random systemship.
+
+Can you take a 20 point warpship and beat a 21 point random systemship in three combat rounds?  (Build your ship and plot out your first combat round then roll up the random systemship and see what it does.)
+
+Step 1: Determine total budget and tech level.
+
+Unless this is given elsewhere just assume a budget of three times the neutral system's value.
+
+Start with a TL of zero.  The system's value is the percentage chance that the TL is greater than zero.  If this number is rolled increase the TL by 1 and roll again, otherwise stop.
+
+So for a 12 BP system on a roll of 13 or greater the TL is 0, but if an 11 was rolled and then a 7 and then a 56 the TL would be 2.
+
+Step 2: Determine components.
+
+Roll two dice on the following table until the entire budget is spent.
+
+Read the list of items from left to right on each line.
+
+For example a roll of 12 when only 2 BPs are remaining would buy one unit of Power/Drive and one Tube.
+
+ 2: PD, B, PD, B, PD, S, PD
+ 3: PD, B, PD, B, PD, S
+ 4: PD, B, PD, S, PD
+ 5: PD, B, PD, S
+ 6: PD, B, PD
+ 7: PD, S
+ 8: PD, T, 3M
+ 9: PD, T, 3M, 3M
+10: PD, T, 3M, PD, T
+11: PD, T, 3M, PD, T, 3M
+12: PD, T, 3M, PD, T, PD, T
+
+Step 3: Fight!
+
+For each round of combat perform the following actions.
+
+3a: Determine speed.
+
+Pick a random speed between 0 and the current PD, to a tech level max of TL + 6.
+3b: Determine systems to power.
+
+Take the total number of tubes that have missiles and divide this by (tubes with missiles + beams +screens)  and roll this as a percentile or less to use missiles this turn, otherwise use screens and beams.
+
+For example, a ship with 4 tubes, 3 missiles, 4 screens and 3 beam factors would choose to launch missiles 30% of the time, but if it had 4 or more missiles remaining then it would use missiles 4/(4+4+3) or 36% of the time.
+
+If missiles are used then power a number of tubes equal to the remaining power (after ship's speed) or remaining missiles, whichever is less.
+
+If beams and screens are used then power both up to full capacity if enough power is available and otherwise flip a number of coins equal to the remaining power and power one unit of beams for each head and one unit of screens for each tail, applying whatever power is left over to the other system when one system is fully powered.
+
+3c: Determine combat tactic.
+
+If any beam factors where powered then attack on a d6 roll of 1 or 2, otherwise attack on a d6 roll of 1 and dodge on a higher roll.
+
+If the neutral systemship winds up doing an attack at speed 0 without launching missiles or firing a beam then it is willing to negotiate (should the opposing ships have picked the negotiate option also) and will offer free passage through this system in future turns, as long as that player's forces do not leave any ships in this system at end of their future movement phases.  Retreating to this system is not a violation of the treaty, but the ship must move out by the end of its next movement phase.
+
+Each missile is launched a random speed of 1 to 10.
+
+All beams and missiles will be launched at a single enemy ship, determined randomly each combat round.
+
+3d: Determine combat results.
+
+Find the results of combat as usual.
+
+3e: Apply damage.
+
+For each point of damage against the ship, go through the following list until a match is found then start over for the next point.
+
+    If the ship has more tubes than missiles remaining take the hit on tubes.
+
+    If the ship has more than three missiles per tube then take a missile hit.
+
+    If PD is greater than the sum of tubes, beam and screen take a PD hit.
+
+    If one of tubes, beam and screen is greater than each of the other two then take a hit on it.
+
+    Take a hit on tubes unless beam or screen is higher.
+
+    Take a hit on beam unless screen is higher.
+
+    Take a hit on screen.
+
+Step 4: Repairs.
+
+If the systemship survives combat then it uses the resources at its still controlled planet to repair and resupply it in future turns, reversing the order above.
+
+So if the ship had been reduced to a single point of PD then the first point of repair would go to S then PD then B then PD then T then 3M then PD then S, etc.
+
+Neutral systems take their turns after all players move.  For example player A moves into a system and engages neutral systemship X and causes it to expend missiles to destroy player A's ship then player B moves into the system during the same turn and faces a ship with fewer missiles and so manages to hang on and survive three combat rounds.  Then the neutral systemship takes its turn, is resupplied and repaired with one turn of income and attacks Player B's ship.
+
+-HJC

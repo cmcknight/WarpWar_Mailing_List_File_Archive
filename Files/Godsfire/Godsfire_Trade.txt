@@ -1,0 +1,108 @@
+        Trade in Godsfire               (c) 1997 Richard W. Smith
+
+
+In the current rules there is no advantage to being at peace with a
+world and one dis-advantage: if you are at war with a world then the
+ruler of that world can not freely move subversion money into your
+system. So apart from the 'peaceful' scenarios, players typically
+declare war against one and all to force enemies to physically escort
+cash to their planet's surface. 
+
+These rules will give a bonus to the economies of worlds that are
+trading with many other worlds. These rules will usually place more
+money in play which speeds up the game (a good thing in my humble
+opinion). 
+
+You may be at peace with a player, but prevent trade. On the other hand,
+worlds controlled by two players in a shooting war may continue to
+freely trade with each other. 
+
+Thus the rules that talk about landing subversion monies no longer care
+if star ships are fighting, they will controlled by weather or not the
+world that is receiving the subversion money is allowing free trade or
+not from the world that the money came from.
+
+Note that under these rules, between some worlds, money will travel
+faster than light. This is a simplification to avoid having to keep
+track of locations of merchant fleets escorting money. I believe that
+you will find these rules to be quite playable. 
+
+Trade 1 
+
+Instead of getting one bonus giga-bucks for each world you control, the
+size of the bonus earned by a world depends on the number of other
+worlds that world is freely trading with (see table below). There are no
+counters that need to be moved, the 'trade fleets' are privately owned,
+are not controlled by any player and never appear on the map. It is
+assumed that if trade is not suppressed, it will naturally occur in the
+background. The only affects of trade are on the world bonus and on the
+ease that subversion money can be sent from one world to another (as per
+the normal rules for when worlds are at peace).
+
+The # of other
+worlds a given          Giga Buck
+world is                        bonus
+trading with.           per turn.
+______________________________________________
+ 0                              -1  (see Trade rule 2)
+ 1                              +0
+ 2 or  3                        +1
+ 4 or  5                        +2
+ 6 to  8                        +3
+ 9 to 11                        +4  (see Trade rule 3)
+12 to 14                        +5  (see Trade rule 3)
+
+Trade 2
+
+For no reason may a world's income go below 1 GB / turn.
+
+Trade 3
+        
+To gain a +4 or +5 income bonus you must be able to use faster than
+light travel. (Without ftl drive, trade with the most distant parts of
+the cluster is so difficult and slow that it nets you no significant
+economic bonus.)
+
+Trade 4
+        
+Trade need not be symmetric. For example, Grom may allow Vand's
+merchants to trade freely at its ports but Vand may prevent Grom's
+traders. In this case, Grom may gain an economic bonus, but will pay the
+price as it will be easier for the player controlling Vand to sneak in
+subversion monies. 
+
+If a player controls more than one world, some of her worlds may allow
+trade with other worlds and some may prevent it. Thus if a world is
+unstable politically, you may wish cut off its trade with hostile worlds
+until you can stabilize the situation. 
+
+Trade 5
+
+The status of trade with other systems may be changed once per turn
+after the landing of subversion monies. Thus if you claim the economic
+bonus, the enemy player will have time to land hostile monies.
+
+Trade 6
+
+If a world is blockaded, the player blockading the system may choose to
+block trade with any or all other worlds. 
+
+If the blockading player chooses to allow some trade, the blockaded
+world may still prevent trade with any or all other world's. (However it
+won't be able to prevent the landing of monies escorted to the system by
+enemy fleets.) 
+
+Typically blockading fleets will stop all trade in order to strangle the
+economy of the besieged world. 
+
+Trade 7
+
+When constructing their own scenarios, players must decide which neutral
+worlds are trading with which players. Usually neutral worlds will trade
+with everyone until a player attacks a neutral world's units. From that
+point on, the attacked neutral will not trade with any of that player's
+worlds.
+
+If you have any questions or suggestions, feel free to write me at:
+
+rsmith@lightspeed.ca

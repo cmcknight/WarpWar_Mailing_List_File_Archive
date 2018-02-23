@@ -1,0 +1,35 @@
+This directory contains information on Microgame #4 WarpWar.  Almost all of 
+this information exists today because of Evan M Corcoran's efforts in 
+collecting the various bits of wisdom and rantings of many people. A special 
+thanks for getting this started. Hopefully he'll be back on the Net one day.
+
+   File Name      Description
+   ---------      -----------
+
+   index.txt      this file
+
+    sg13.txt      Space Gamer#13 - Designer's Introduction notes
+    sg14.txt      Space Gamer#14 - Eldon Tannish, scenario for 2 players and 
+                   solitaire play
+    sg15.txt      Space Gamer#15 - Floating Hulks, optional rules
+    sg16.txt      Space Gamer#16 - Layin' It On The Line, tactics
+    sg19.txt      Space Gamer#19 - variant combining Imperium and Warpwar
+    sg33.txt      Space Gamer#33 - variant for camapign play with many 
+                   players
+   int15.txt      Interplay#5 - variant combining WarpWar with STARFORCE
+ 
+ digest9.zip      contains E-Mail digests where rules and variations are
+digest10.zip       discussed.
+digest11.zip
+
+rules-2n.txt      Second Edition of rules used for PBEM play. Haggled with in
+                   the Digests
+variants.txt      Collection of optional rules from Digests. Some used and 
+                   some unused.
+     map.txt      ASCII map to be used with standard game.
+
+expd-crt.txt      An expanded CRT to ease HIT/MISS determinations
+shiprecs.txt      A ship record sheet.
+
+
+

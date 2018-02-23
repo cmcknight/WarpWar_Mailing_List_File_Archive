@@ -1,0 +1,276 @@
+From: emc@m-net.arbornet.org (Evan M Corcoran)
+Subject: Tactical Combat Variant
+
+From Interplay #5, Jan-Feb 1982
+(c) 1982 Interplay
+AN UNOFFICIAL WARPWAR VARIANT
+By M.R. Camwell
+
+WARPWAR is by far my favorite tactical spaceship combat game.  But there are a few modifications and expansions needed to make it truly tactical.  One of the first wargames I ever bought was STARFORCE from SPI.  I liked that game's concept of transferring spaceships to a 3 dimensional tactical display in order to conduct combat.  This gave a better feeling of actual maneuvering and firing on each other, rather than just "throwing" attack numbers or combat odds at each other and rolling dice.
+
+For years I had considered combining what I thought were the best parts of WARPWAR and STARFORCE into a fun, playable tactical space game. During most of that time the ideas stayed in my mind and never reached paper, until now.
+
+I would like to share my own variant of WARPWAR (modified by STARFORCE) so that other players might try this system too.  This tactical variant requires the players to make some additional information counters and use another hex map besides the normal WARPWAR map.
+
+THE TACTICAL DISPLAY
+
+The Tactical Display [at end of this file] represents a star hex from the strategic WARPWAR map.
+
+When both players' ships occupy the same star hex, instead of having
+combat there, they are transferred to the tactical display to maneuver
+and fire.  The tactical display is 3 dimensional and has eleven levels,
+of which the display map itself is level 0.  The levels are, in
+descending order, +5, +4, +3, +2, +1, 0, -1, -2, -3, -4, -5.  The star
+itself is situated in the center of the tactical display on level 0.
+
+It will be necessary, for the purposes of movement and keeping track
+of the ships, to make enough informational counters for each of the
+ships, both warpships and systemships, involved in the combat.  One
+"batch" of counters numbering from +5 to 0 to -5 should be made for
+every ship.
+
+These counters could either be made from blank counters from other
+games or cut out from sheets of cardboard stock and numbered from +5 to -5.
+
+These counters are then placed under the ships and are changed
+whenever the ship moves up or down a level.  A player is always
+permitted to check the level of his opponent's ships.
+
+If the players wish, they can dispense with numbered counters and
+keep track of the vertical levels of their ships their ships are on by
+secretly writing them down from turn to turn.  Please remember that this
+then makes the movement and placement of the ships semi-hidden because,
+though the horizontal position of the ships will be known, their
+vertical position will not be known by the opposing player.
+
+A third method of portraying 3 dimensional space would be to use part
+of a GODSFIRE map or make a smaller copy of said map.  When using a
+GODSFIRE style map the information counters can still be dispensed with
+while still knowing the exact positions of all the ships.
+   It is, of course, up to the players to decide on which type of map
+they wish to play and whether they want their movement to be semi-hidden
+or not.
+
+Ships are allowed to move up and down diagonally as well as move
+vertically and horizontally.  When a ship moves vertically or
+horizontally the number of hexes or levels is immediately known.  Moving
+up and down diagonally presents a slight problem in calculating actual
+hexes moved.  The accompanying table is a quick reference for figuring
+true distance movement by diagonals. [at end of file]
+
+Simply cross reference the apparent number of horizontal hexes moved
+with the number of vertical levels moved to find the true number of
+hexes moved in that combat round.
+
+SET UP
+
+Any ships already occupying a star hex on the strategic map when
+enemy ships warp in for combat, may be placed on any combination of hex
+and level (except the star hex in the center of the display) that the
+owning player chooses.
+
+Those ships which are warping or otherwise moving into a strategic
+star hex during a turn, must be set up in as compact a group as possible
+on the outermost hex/levels that would correspond to the direction from
+which they came.  Thus, in warping ships would be placed either at a
+corner, near a corner, or on a side of the tactical display.
+
+Only one ship (warpship or systemship) may occupy a hex/level at one
+time (unless a systemship has not been dropped from a warpship yet).
+
+All ship units must have a level indicator counter under them.  So,
+though ship units may be stacked on top of each other, they must have
+their own level counter to indicate that they are on different levels.
+
+If a warpship is going to use its last PD of movement to drop off a
+systemship at the end of the strategic movement phase, that systemship
+must be placed in a hex/level adjacent to the warpship when the ships
+are set up in the tactical display.  A systemship that has not been
+dropped yet is not placed on the tactical display until it is dropped.
+When a systemship is dropped during a combat round it is placed in a
+hex/level adjacent to its dropping warpship.
+
+MOVEMENT
+   Both warpships and systemships may move on the tactical display.  The
+maximum number of hex/levels a ship may move in one combat round is
+dictated by the PD allocated to the ship's drive when the "orders" are
+written at the beginning of that combat round.
+   For example: if a ship allocated 3 PD to its drives for a combat
+round, it can move a maximum of 3 hex/levels during that round.  If a
+ship allocates 0 PD to drives, then it can not move at all during that
+round.
+   If a ship attempts to enter, pass through, or end movement in the
+center star hex, it is considered to be burned up and destroyed by the
+star.
+  A ship may move in any direction or combination of directions that the
+player wishes, only being restricted by the combat tactic picked for
+that round.  A warpship may leave the tactical display during movement.
+If this were to happen then it would re-enter the strategic map on a hex
+adjacent to the star hex.  This adjacent hex should correspond to the
+same side of the tactical display that the warpship exited from.
+   Systemships cannot leave the tactical display on their own power.
+They may only leave the display by being picked up by a warpship before
+it leaves the display.
+
+COMBAT TACTICS
+   The players still have to write out their ship's "orders" and the
+combat tactics of attack, dodge and retreat are still used, but there is
+a little bit more to them in tactical combat.  The combat tactics are
+now translated to movement in these ways:
+   Attack Tactic - A ship which chooses the attack tactic must move in
+as straight a line as possible directly towards its target.
+   Dodge Tactic - A ship which chooses the dodge tactic may move in any
+direction the player wants, just so that the ship does not come any
+closer to any enemy ships.
+   Retreat Tactic - A ship which chooses the retreat tactic must move
+directly away from all enemy ships and towards the side of the tactical
+display that it is nearest to.  Some circumstances may not make it
+possible for the ship to do both actions in one movement.  In such cases
+it is the players decision as to which course to take.  Whenever
+possible the ship must perform both functions.
+   If the ship had allocated enough PD to the drive so as to allow the
+ship to move completely out of the tactical display, it is moved off the
+display and placed in an adjacent hex on the strategic map that would
+correspond to the side of the tactical display from which it exited.
+   If warpship which chose the retreat tactic left the tactical display
+during movement, any enemy ship that was going to fire on it aims for
+the hex/level which the warpship last moved through.  If the attack was
+successful against that hex, the retreating warpship is returned to the
+display and must apply any damage taken.
+   On subsequent rounds the warpship may continue to try to retreat.  On
+any round in which a hit is not made, the warpship is successful in
+retreating and then moves back to the strategic map.
+
+COMBAT
+   The only modifications to combat refer to the use of beams and
+missiles.
+   Beams - A beam's strength drops off over long distances.  At a range
+of 4 hexes the beam does damage at full strength.  At a range of 5 to 6
+hexes the beam's strength is cut in half, rounding fractions up. At a
+range of 7 to 8 hexes the beam's strength is cut down to 1/4 strength,
+again rounding fractions up.  At any range beyond 8 hexes the beam's
+strength is 0, it is ineffective.  A beam's original strength is as
+strong as the PD allocated to it at the beginning of the combat round
+   When a beam hits a target its damage is calculated from either its
+full, half or quarter strength, depending on the range between the
+ships.  Combat is then resolved normally.
+   This rule is designed to encourage more close-in fighting than long
+distance pot shots.
+   Missiles - At the time of firing, a missile is given a drive setting.
+This drive setting number is multiplied by 2 to find the number of
+hex/levels the missile can travel before it runs out of power and stops.
+   For example: a missile with a drive setting of 2 can move 8
+hex/levels, etc. [these numbers are as per the original, but they look
+wrong to me.  2 times 2 is four in my book.]
+   If a missile can not travel enough hex/levels in the combat round in
+which it was fired to reach its target, then the missile is considered
+to be eliminated from play.  If the missile can move far enough to enter
+the target hex then combat is resolved normally and the missile does
+damage normally.  A missile can not last for more that one combat round.
+
+SEQUENCE OF TACTICAL DISPLAY TURN EVENTS
+1. ORDERS: Each player writes "orders" for all of his ships as is done
+in normal WARPWAR.
+2. MOVEMENT: Execute movement from orders.  Systemships are dropped or
+picked up at anytime during movement at a cost of 1 PD per action.
+3. COMBAT: Execute combat orders.  Missiles are launched and beams are
+fired and the factors mentioned previously in this variant take effect.
+4. DAMAGE: Damage is recorded.
+5. Either start another combat round or move surviving ships back to the
+strategic map.
+
+
+CONCLUSION
+   All other rules of power allocation and combat resolution are the
+same as in the WARPWAR rulebook.  If any questions or problems arise
+when playing this variant, you may write to me at: Michael T. Friend,
+8232 Salt Springs Rd., Manlius, New York 13104.
+
+
+THE TACTICAL DISPLAY
+
+NOTE: In the original article this hex was oriented so that the arrow pointed
+to the top of the page.
+
+                           >--<
+                          /    \
+                      >--<      >--<
+       __            /    \    /    \
+      |\         >--<      >--<      >--<
+        \       /    \    /    \    /    \
+         \  >--<      >--<      >--<      >--<
+           /    \    /    \    /    \    /    \
+       >--<      >--<      >--<      >--<      >--<
+      /    \    /    \    /    \    /    \    /    \
+  >--<      >--<      >--<      >--<      >--<      >--<
+ /    \    /    \    /    \    /    \    /    \    /    \
+<      >--<      >--<      >--<      >--<      >--<      >
+ \    /    \    /    \    /    \    /    \    /    \    /
+  >--<      >--<      >--<      >--<      >--<      >--<
+ /    \    /    \    /    \    /    \    /    \    /    \
+<      >--<      >--<      >--<      >--<      >--<      >
+ \    /    \    /    \    /    \    /    \    /    \    /
+  >--<      >--<      >--<      >--<      >--<      >--<
+ /    \    /    \    /    \    /    \    /    \    /    \
+<      >--<      >--<      >--<      >--<      >--<      >
+ \    /    \    /    \    /****\    /    \    /    \    /
+  >--<      >--<      >--<******>--<      >--<      >--<
+ /    \    /    \    /    \****/    \    /    \    /    \
+<      >--<      >--<      >--<      >--<      >--<      >
+ \    /    \    /    \    /    \    /    \    /    \    /
+  >--<      >--<      >--<      >--<      >--<      >--<
+ /    \    /    \    /    \    /    \    /    \    /    \
+<      >--<      >--<      >--<      >--<      >--<      >
+ \    /    \    /    \    /    \    /    \    /    \    /
+  >--<      >--<      >--<      >--<      >--<      >--<
+ /    \    /    \    /    \    /    \    /    \    /    \
+<      >--<      >--<      >--<      >--<      >--<      >
+ \    /    \    /    \    /    \    /    \    /    \    /
+  >--<      >--<      >--<      >--<      >--<      >--<
+      \    /    \    /    \    /    \    /    \    /
+       >--<      >--<      >--<      >--<      >--<
+           \    /    \    /    \    /    \    /
+            >--<      >--<      >--<      >--<
+                \    /    \    /    \    /
+                 >--<      >--<      >--<
+                     \    /    \    /
+                      >--<      >--<
+                          \    /
+                           >--<
+
+
+TRUE DISTANCE TABLE
+
+                    Horizontal Hexes Moved
+
+            I 0| 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11
+          ~~I~~|~~|~~|~~|~~|~~|~~|~~|~~|~~|~~|~~
+           0I 0| 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11
+          --I-----------------------------------
+           1I 1| 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11
+          --I-----------------------------------
+           2I 2| 2| 3| 4| 4| 5| 6| 7| 8| 9|10|11
+          --I-----------------------------------
+           3I 3| 3| 4| 4| 5| 6| 7| 8| 9| 9|10|11
+          --I-----------------------------------
+Vertical   4I 4| 4| 4| 5| 6| 6| 7| 8| 9|10|11|12
+Levels    --I-----------------------------------
+Moved      5I 5| 5| 5| 6| 6| 7| 8| 9| 9|10|11|12
+          --I-----------------------------------
+           6I 6| 6| 6| 7| 7| 8| 8| 9|10|11|12|13
+          --I-----------------------------------
+           7I 7| 7| 7| 8| 8| 9| 9|10|11|11|12|13
+          --I-----------------------------------
+           8I 8| 8| 8| 9| 9| 9|10|11|11|12|13|14
+          --I-----------------------------------
+           9I 9| 9| 9| 9|10|10|11|11|12|13|13|14
+          --I-----------------------------------
+          10I10|10|10|10|11|11|12|12|13|13|14|15
+          --I-----------------------------------
+          11I11|11|11|11|12|12|13|13|14|14|15|16
+
+
+
+
+
+

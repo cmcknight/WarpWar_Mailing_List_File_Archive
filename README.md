@@ -1,2 +1,2 @@
 # WarpWar_Mailing_List_File_Archive
-File archives (photos, etc.) of the Yahoo! WarpWar Mailing list
+This archive contains the Files and Photos sections of the Yahoo! WarpWar Mailing List.

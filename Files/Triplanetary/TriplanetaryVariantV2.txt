@@ -1,0 +1,595 @@
+******************************************************************************
+*****                                                                    *****
+***                      TRIPLANETARY VARIANT V/2                          ***
+*****                                                                    *****
+******************************************************************************
+
+                    Copyright (c) 1976 by John Railing
+
+                       *****TABLE OF CONTENTS*****
+ 1. Basic Rules
+ 2. Equipment
+ 3. Start of Game
+ 4. Turn Sequence
+ 5. Players
+ 6. Space Patrol
+ 7. Corporations
+ 8. Offices
+ 9. Combining Companies
+10. Ships
+11. New Ships
+12. Building Ships
+13. Crews
+14. Supplies
+15. Fuel
+16. Radios
+17. Weapons
+18. Towing
+19. Bases
+20. Recreational Modules
+21. Base to Base Transfer
+22. Planets
+23. Prospecting
+24. Mining Claims
+25. Trade
+26. Market Saturation
+27. Ore Pick Up
+28. Space Liners
+29. Taxes
+30. Banks
+31. Lloyds of Luna
+32. Interstellar Colonization
+33. Piracy
+34. Warlords
+35. Kidnapping
+36. Criminal Acts and Trials
+37. End of Game
+38. Equipment Price List
+39. Trade Items and Values
+40. Space Passenger Lines
+41. Trial Results Table
+
+1. ***BASIC RULES***
+All basic Triplanetary movement and combat rules are in effect.  Exceptions
+and additions are as noted in this variant.
+
+2. ***EQUIPMENT***
+An equipment and ship list is located at the end of this variant.  Any
+other equipment not given on the list is considered to be installed or available
+at no extra cost
+
+3. ***START OF GAME***
+Each player will start with 25 KC (KiloCredits).  After the sequence of
+players is determined, each player may spend his money as he wishes.  All players
+start at Ceres.  Any extra money may be left in a bank account on Ceres.
+
+4. ***TURN SEQUENCE***
+The turn sequence is the same as regular Triplanetary with all additional
+activities occurring during the Resupply Phase.
+
+5. ***PLAYER***
+Each player (with the exception of the Space Patrol player) starts as the
+captain of a single ship, then becomes the head of a corporation as his fortunes
+grow.  Each player must have written down his location, whether travelling with a
+ship, at a base, or on a planet.  If a ship is destroyed while a player is on it
+the player is dead and his company dissolved itself.  More than one person may
+act as a single player.
+
+6. ***SPACE PATROL***
+The Space Patrol player is the police/military arm of the Earth Government.
+The Patrol player starts with 500 KC and collects 1/2 of all taxes and all the
+fines that are levied against the other players.  The Patrol player may not mine
+ore or engage in trade, but he may set up bases in the asteroids.  Patrol ships
+must start on Luna and are crewed and equipped like all other ships.  He also
+takes care of bookkeeping for the planets for ore and drug conversions.  The
+game may be played without a Space Patrol player, but an active patrol improves
+the game considerably.
+
+7. ***CORPORATIONS***
+Once a player has two or more ships, he must incorporate.  This can be done
+at any planet and costs 5 KC and takes 5 days/turns of the player's time.  More
+than one player may form a corporation together, but one player must be listed
+as the head of the corporation.
+
+8. ***OFFICES***
+To keep the corporations bookkeeping and to direct its operations, it must
+have at least one office.  Offices may be located on any planet or a base.  An
+office costs 10 KC to set up and 5 KC every 30 days/turns to operate, with
+operating expenses to be paid in advance.  If an office closes down, all
+activities will not do anything further.  They will complete whatever activity is
+in progress, then all functions stop.  To restart an office, it cost the same
+as to start one initially.
+
+9. ***COMBINING COMPANIES***
+Companies may be bought outright by a player for an agreed on price.  This
+sale is subject to the ten percent tax.  Mergers of corporations cost 1000 KC,
+and take 120 days/turns to complete.  When corporations are merged, only one
+player may be the head of the corporation.  Upon the death of that player, or
+his retirement, the number two player in the corporation becomes its head.
+
+10. ***SHIPS***
+All the basic ships from Triplanetary are used, and also some newly designed
+ships.  Commercial ships (those with a "D" combat strength) may transport any-
+thing, but may not launch any type of an attack.  All other ships are capable of
+using whatever weapons they can carry.
+
+11. ***NEW SHIPS***
+ A. **EXECUTIVE LINER**
+ This ship may be used for fast transport of company officers or as a mobile
+office.  As an office, it costs for both the ships and the offices operation,
+and it must be supplied both for the crew and for the office staff.  3 units of
+supply per month.  The office occupies twenty CP of cargo space in the liner.
+ B. **SUNSHIP**
+ A space sailing ship that uses the sun as its main power source.  It cannot
+land on a planet.  When tacking with the solar winds it uses no fuel.  It can
+freely move into any of the three hexes away from the sun as if it had used fuel
+and the engines of the ship.  If a sun ship goes into or beyond the orbit of the
+asteroid belt its sail will be ripped and no longer usable.
+ C. **BUSSARD RAMSCOOP**
+ This ship is used mainly for interstellar colonization.  Its scoop fields
+sweep up minute particles of matter in space to fuel the engines of the ship.
+The scoop is only usable after the ship is moving at a speed of six hexes or
+more per turn.  When the scoop is in operation, it uses none of its regular
+fuel.
+
+12. ***BUILDING SHIPS***
+Ships may be built on any major planet or moon.  It takes thirty days/turns
+per attack factor to build a ship.  Ships must be paid for in advance and their
+point of origin is recorded.  A mining base or recreation module takes thirty days/
+turns to build and must be picked up from wherever it is built.
+
+13. ***CREWS***
+Crews are an essential part of most operations.  They man ships and bases and
+mine ore.  The cost to hire a crew is two KC at hiring time and 0.1 KC for each
+day they work.  Crews like to be paid at least once a month (30 days/turns), but
+will wait as long as six months (180 days/turns) before they quit.  If they quit
+the ships they are on will land at the nearest planet and mines and bases will
+be open to anyone who will remove the crews to a planet.  If a player has crews
+quit on him, it costs double for each new crew that is hired.  All new crews
+must be picked up from a major planet or moon or Ceres.  A crew can be
+discharged by paying them any back wages and two weeks (14 days/turns) severance
+pay and leaving them at a planet, moon, or Ceres.  A crew can man both a mine
+and a base on the same hex.  A crew by itself (no ship or base) has a defensive
+factor of one.
+
+14. ***SUPPLIES***
+To maintain the existence of the players and the crews, supplies are 
+needed.  One unit of supplies will fulfill the needs of one crew for one month.
+At the beginning of the game, each players ship is supplied with three months (90
+days/turns) of supplies.  Each ship has built into it room for three months of
+supplies.  Extra supplies will have to be stored in the hold at one CP (Cargo
+Point) per unit of supplies.  Once a crew runs out of supplies, they are dead
+and all ship, base, mine functions stop.  A moving ship will continue at its
+last course and speed.  Each ship carries two weeks (14 days/turns) of emergency
+supplies.  Each base has one month (30 days/turns) of emergency supplies.
+Replacement of emergency supplies cost 1 KC for ship supplies and 2 KC for base
+supplies.  The Patrol levies a 10 KC fine for each day/turn of emergency
+supplies used.  Crews on a planet do not need supplies.
+
+15. ***FUEL***
+Fuel for ships may be purchased on any planet for one KC per unit of fuel.
+Fuel may be purchased and loaded while in orbit.  Fuel may be transferred between
+ships and ships and bases as long as they are motionless to each other and in
+the same hex.
+
+16. ***RADIOS***
+Ships and bases have built in radios.  Ship radios have a range of fifteen
+hexes.  Bases have a range of twenty-five hexes, and planets have a range of fifty
+hexes.  Asteroids and planets cause radio interference so one extra hex of
+range is subtracted for each hex that type A radio messages travels through.
+
+17. ***WEAPONS***
+Ships and bases both use guns that are the same or similar to each other,
+but only ships may use mines and torpedoes.  A crew has a defense factor of one
+when they are not protected by a base or ship.  Any disabling or destruction
+result will kill an unprotected crew.  The other weapons available to ships
+besides their guns are:
+  A. **MARK I MINE**
+  Takes up 10 CP. Normal mine.
+  B. **MARK II MINE**
+  Takes up 5 CP. Smaller than Mark I, otherwise the same.
+  C. **MARK I TORPEDO**
+  Takes up 20 CP.  Fuel burns at launching.
+  D. **MARK II TORPEDO**
+  Takes up 10 CP.  Same as Mark I, only smaller.
+  E. **MARK III TORPEDO**
+  Takes up 10 CP.  Fuel can be used at any time.
+
+18. ***TOWING***
+One ship may tow another ship under the following conditions.  First, both
+ships must be in the same hex and stationary in relation to each other.  Then
+one day/turn must be used to rig towing equipment.  Double the normal amount
+of fuel must be used to move the ships.  On the first turn of blasting, both ships
+do nothing.  On the second turn both ships move as they would for one normal
+turn of blasting.  The effect on movement occurs on the second turn it is done
+and may be accumulated over a period of several turns.  Either ship may stop the
+towing at any time.
+
+19. ***BASES***
+A base is a living quarters, defensive area, supply depot, and mining area.
+A base has an attack/defense factor of two.  A base may hold an unlimited amount
+of supplies of any type.  Base firing is done on the gun table.  A base has a
+radar range of four hexes.  No landing may be made on an active base without
+either the permission of the owner or the chance of destruction by the base's
+guns.  A base may be located on any asteroid hex.  It does not need to be
+located on a mine.  A base on a C-T mine must be equipped with pseudo-magnetic
+grapples or it will suffer the same fate as a ship without such grapples.
+
+20. ***RECREATIONAL MODULES***
+Recreational modules are small additions to existing bases.  They provide the
+little pleasures of life not usually found on an asteroid base.  If a crew has
+access to a recreational module, on their base or on any of the six hexes adjacent
+to them, they will spend one half of their pay at the recreation module.  This
+does not apply to ship crews unless the ship is on the base for more than one
+week (7 days/turns), and then only for the time spent at the base.  A recreational
+module uses two CP of supplies per month.  If it runs out of supplies, it shuts
+down until resupplied.
+
+21. ***BASE TO BASE TRANSFER***
+Men, equipment, ore, supplies, fuel, anything that may be transported inside
+a ship may be transferred between adjacent bases at a rate of five CP per turn.
+
+22. ***PLANETS***
+At the start of the game, all planets are controlled by the Earth government
+and each planet and moon shown on the map, with the exception of Jupiter, has
+planetary defenses that are controlled by Earth.  The planetary defenses are
+treated like ship guns for firing except that they always use the 2:1 firing
+table.  Each planet that has full detector screens has six guns.  Mercury and Io
+have guns only on the sides with bases.  Planetary guns can be neutralized by
+nuking a side or by landing a warship of at least corsair size on that hexed.
+Planets and moons will fire at any player who has declared himself to be a 
+warlord or pirate.  Once a planet is under the control of a player, it will
+fire only at his command.  A planet may be taken by another player by the same
+methods unless there is a ship grounded on the hexside, then the ship must first
+be destroyed by bombardment with guns from space.  A ship on the ground cannot
+fire, it must depend upon planetary guns.
+
+23. ***PROSPECTING***
+All players start the game by prospecting the asteroids for high-grade ore
+to sell at Ceres or some planet.  Only a transport or packet may search for ore.
+The first ship to pass through a hex rolls one six-sided die.  A six indicates
+high grade ore.  Only a ship moving at a speed of one may prospect.  All empty
+hexes should be marked as such.  An asteroid hex may be reexamined once.  Roll
+the die twice and if two sixes are rolled, there is high-grade ore there.  If a
+one is rolled on the prospecting die, roll it again.  If another one is rolled,
+the ship has found C-T (Contra-Terrene or Antimatter) ore, and is disabled for
+four turns.  C-T may only be handled by a ship that has been equipped with pseudo
+magnetic grapples.  Such a ship is not affected when passing through a C-T hex.
+A base may be established on a C-T hex only if it is equipped with pseudo-mag-
+netic grapples.  A crew also needs pseudo-magnetic grapples to work a C-T mine.
+A regular mine produces one CP of ore per day/turn.  A C-T mine produces one CP of
+C-T ore every five days/turn.  Any ship passing through a known C-T hex will
+be affected by the C-T by being disabled for four days/turns.
+
+24. ***MINING CLAIMS***
+To make a claim the property of a player, it must be registered with an
+Earth government office on any planet or Ceres.  A claim may be announced over
+the radio giving that player the first chance to register it.  A claim must be
+registered in person with a government office.  This takes one day/turn and the
+cost is one KC per mine.
+
+25. ***TRADE***
+The game consists of the trade aspects of the corporations and their buying
+and selling of various goods from raw ore to processed Cordrazine.  The trade
+value table at the end of these rules lists the goods that may be bought and
+sold and their basic prices.  The raw ore comes directly from the mining claims.
+Ceres and Callisto are the only places that process the ore.  Ore may be
+processed on Ceres or Callisto or a player may buy ore processing equipment.
+Each ore processor converts four CP of raw ore into one CP of processed ore.
+Each processor can handle twelve CP of raw ore per day/turn.  Ceres and Callisto
+must have the raw ore to be processed before they can sell processed ore.
+Ganymede produces two CP of raw Cordrazite per day/turn.  Earth can convert four
+CP of Cordrazite into one CP of Cordrazine per day/turn.  Earth must have the
+Cordrazite before it can convert it to Cordrazine.  Cordrazine is a medical
+wonder drug that has very great curative and longevitive properties.  Ships must
+land on a planet or moon to load or unload.
+
+26. ***MARKET SATURATION***
+Any market will become saturated after a load of cargo is sold.  This causes
+the price for that type of good to drop.  A market will be saturated for one
+day/turn for each ten CP of goods sold there.  A fifty CP load will saturate the
+market for five days/turns.  There is a twenty five percent drop in price during
+the saturation period.  This applies to any new ship brining that type of goods
+on any day/turn after the first sale that has saturated the market.  Other goods
+are not affected.  They start their own saturation.  Exceptions to this are raw
+ore, Cordrazite and Cordrazine.
+
+27. ***ORE PICK UP***
+Ships may pick up ore at a base while moving at a speed of one.  Crews,
+supplies, torpedoes, mines, and other portable equipment may also be picked up
+or dropped off in this manner.  This cannot be done with fuel or C-T ore.
+
+28. ***SPACE LINERS***
+A player may choose to set up a space liner service during the game.  There
+may be any number of different liner services operating during the game or at
+any one time.  Once the first line is established, there must be a space line in
+operation as long as there is a player loyal to the Earth government.  A player
+may not be forced to start a space line.  Passengers take up two CP each.  Fares
+are set by the Earth government.  Passengers will start to accumulate as soon as
+some player announces that a line has been established.  The routes, fare, and
+number of turns needed to accumulate a passenger for that run are given on the
+space liner chart at the end of these rules. Note that corporations that
+own space liner services have bonuses to their public relation.
+(see 36. Criminal Acts and Trials, C. Public Relations)
+
+29. ***TAXES***
+The Earth government collects a ten percent tax on all sales of goods by
+players at the time of sale.  This includes sales between players.  A property
+tax is also collected every tax cycle or 360 days/turns.  It is ten percent of
+the original price of all ships and bases including recreational modules.  This
+also includes those ships and bases in the process of being built.  Not paying
+taxes on time is considered a class one crime.  Any player not paying taxes for
+two tax cycles automatically becomes a pirate.
+
+30. ***BANKS***
+There are banks on all planets that provide safe places for keeping money
+and take care of transferring money between planets.  Branch banks may be set up
+by a corporation for a 500 KC fee and supplying the branch with 5000 KC in
+monetary reserves in the form of Plutonium (1 CP/100 KC) which must be shipped
+from a regular bank to the branch before it can open.  Banks do not make loans.
+
+31. ***LLOYDS OF LUNA***
+Lloyds of Luna is an underwriting firm that will underwrite up to fifty 
+percent of a cargo on a guaranteed profit basis.  They must receive full market
+value for their share of the cargo to fulfill the contract.
+
+32. ***INTERSTELLAR COLONIZATION***
+A player may outfit an interstellar colonization attempt using Bussard
+ramscoop ships.  Each attempt takes three Bussard ramscoops and costs 100,000 KC
+and takes 360 days/turns to build and equip.  All attempts start on Luna and
+leave the board past Jupiter, never to return to the game.
+Note that interstellar colonization attempt give the outfitting corporation
+a bonus to its public relations.
+(See 36-Criminal Acts and Trials, C-Public Relations)
+
+33. ***PIRACY***
+A player may engage in piracy at any time.  If however, they are caught, the
+corporation is declared pirate and all of its members are arrested whenever
+possible by the Space Patrol.  The Free Port of Ceres is the only place that may
+buy from or sell to a pirate.  Anything done to a pirate is considered a class 1
+crime.  A player may declare himself a pirate.  Once turning pirate, a player
+cannot return to his former legal status.  A pirate may become a warlord.
+
+34. ***WARLORDS***
+A player can decide that he has become powerful enough to challenge the Earth
+government and carve out his own empire.  He then becomes a warlord.  Becoming
+a warlord and the boundaries of the empire must be announced to all players.  A
+warlord's empire may include any area he wishes and he may make any laws needed
+to govern the area.  The warlord should make sure that he is powerful enough to
+carry out his laws because otherwise the other players need not obey them.  A
+warlord can only trade with Ceres, no other Earth held planet or moon will do so
+and instead will attempt to destroy the warlord.  Once a warlord has declared
+himself, it is the Space Patrol's job to destroy the warlord as soon as possible.
+Other players may join in attacks on the warlord without fear of criminal
+penalty.  Once a player becomes a warlord, he can never regain his former legal
+status.  A warlord's empire may include planets, asteroids, and open space.  To
+gain control of a claimed planet, the warlord must occupy it.
+
+35. ***KIDNAPPING***
+Kidnapping can happen only from a ship or a base, not a planet.  Players,
+crews, or space liner passengers may be held for ransom.  The amount and other
+details are to be determined by the kidnappers.  All actions involving the
+victims and whatever ransom should be kept in writing to avoid problems and to
+encourage honesty and doublecrossing.  This includes the killing of the victims.
+
+36. ***CRIMINAL ACTS AND TRIALS***
+There are certain acts that are considered crimes by the Earth government.
+These are divided into three classes.  If one of these crimes is committed and
+the Space Patrol is informed of it, the Patrol is required to seek out and
+arrest both the crew (or crews) responsible and the head of their corporation.
+Trials are conducted on Earth government held planets.  Guilt is determined by
+the use of truth drugs and machines, but the result of the trial may be modified
+by several factors.  These are the public relations value of the company and any
+bribery the company wants to engage in.
+
+A. **CRIMES**
+   *CLASS I*
+   Contract breaking
+   Failure to pay tax on a sale
+   Failure to pay tax for one tax cycle
+   Uncrewed claim jumping
+   Theft of stored ore or equipment
+   Firing at a Space Patrol ship or base
+   *CLASS II*
+   Claim jumping of a crewed mine
+   Piracy of bases or ships without loss of life
+   Destruction of ships or bases
+   Damaging a Patrol ship or base
+   Abduction
+   *CLASS III*
+   Murder of crews
+   Piracy with loss of life
+   Kidnapping for ransom
+   Destruction of Space Patrol ships, bases or crews
+
+B. **TRIALS**
+For each crime, check the appropriate column on the Trial Result Chart at
+the end of the rules and roll one six-sided die to determine the result.  Start
+at 0 and add the die result plus the public relations value and the bribery
+value if any.  The final number is the result of the trial.
+
+C. **PUBLIC RELATIONS**
+Each corporation starts with a zero public relations value or index.  This
+value can change throughout the game and should be kept current.
+
+   *ADDITIONS TO PUBLIC RELATIONS VALUE*
+   +1 - Heroism
+   +5 - While running a space passenger line
+   +2 - If company has recreational modules and is tried at Mars or beltward
+   +1 - If running a service to other corporations
+   +1 - For each trial result of "Suit Dismissed"
+   +2 - For each trial result number of 21 or greater
+   +1 - For each 5000 KC public relations program spent on Earth
+   +5 - For each interstellar colonization attempt
+
+   *SUBTRATIONS TO PUBLIC RELATIONS VALUE*
+   -2 - If company has recreational modules and is tried on Earth or sunward
+   -1 - If a company stops running a space passenger line
+   -1 - For each trial result that is the maximum penalty
+   -2 - For each trial result number of -21 or less
+   -1 - For each failed bribery attempt
+   -15 - For turning pirate
+   -15 - For becoming a warlord
+
+The players may agree to add or subtract public relations point given to a
+player for actions during a game as long as all players agrees to the decision.
+
+D. **BRIBERY**
+A player may try to bribe the trial judges and jury to improve the result of
+a trial.  For each trial, a player may attempt up to three bribes.  Each bribe
+cost 500 KC.  For each bribe, roll one six-sided die, a score of 1, 2, or 3
+indicates that the bribe was successful and a +1 is added to the trial result.
+A score of 4, 5, or 6 indicates that the bribe was unsuccessful and a -1 is
+added to the trial result.  All bribery attempts must be completed before the
+trial die is rolled.
+
+37. ***END OF GAME***
+The game may be ended at any time agreeable to all the players.  It can be
+after a certain number of turns, or after one player controls all the others, or
+when one corporation has amassed a certain amount of wealth, or anything agreed
+upon by all players before the game.  This is an open ended game and it can be a
+long one, so setting some definite ending point is desirable.  If at some time
+during the game, before the goal of the game is reached, further play becomes
+meaningless, consider the game over and stop.
+
+38. ****EQUIPMENT PRICE LIST****
+
+ITEM                      PRICE(KC) FUEL CARGO CAPACITY(CP)
+                                         (*CARGO SIZE)
+Transport                  10       10   50
+Packet                     50       10   50
+Corvette                   50       20   5
+Corsair                    100      20   10
+Frigate                    200      20   40
+Dreadnaught                375      15   50
+Tanker                     20       50   -
+Liner                      100      10   50(25 passengers)
+Torch Ship                 400  infinity 10
+Orbital Base               400      -    50
+Executive Liner            250      20   20
+Bussard Ramscoop           500      15   250
+Sun Ship                   10       6    5-50*
+Sun Ship Sail              5        -    10*
+Base                       250      -    50*
+Recreation Module          50       -    50*
+Pseudo-magnetic Grapples   50       -    45*
+Special Clandestine Radar  25       -    -
+Automated Mining Equipment 5        -    10*
+Ore Processor              30       -    25*
+Mark I Mine                25       -    10*
+Mark II Mine               50       -    5*
+Mark I Torpedo             50       2    20*
+Mark II Torpedo            75       2    10*
+Mark III Torpedo           150      2    10*
+Nuke                       500      -    20*
+Fuel, per point            1        -    -
+Crew, per day/turn         0.2      -    4*
+One months supply          1        -    1*
+
+39. ****TRADE ITEMS AND VALUES****
+ITEM                SELL AT    PRICE(KC/CP) BUY AT    PRICE(KC/CP)
+Raw Ore             Ceres      1            -         -
+Raw Ore             Callisto   1            -         -
+Processed Ore       Ceres      1.5          Ceres     2
+Processed Ore       Callisto   1.5          Callisto  2.5
+Processed Ore       Mars       2.5          -         -
+Processed Ore       Venus      3            -         -
+Processed Ore       Earth      3.5          -         -
+Manufactured Goods  Venus      3.5          Venus     3
+Manufactured Goods  -          -            Earth     4
+Manufactured Goods  Mars       5.5          Mars      5
+Manufactured Goods  Ceres      5.5          -         -
+Manufactured Goods  Callisto   6            -         -
+Manufactured Goods  Ganymede   6            -         -
+Cordrazite          Earth      25           Ganymede  12.5
+Cordrazine          Anywhere   75           Earth     50
+C-T Ore             Ceres      100          -         -
+
+40. ****SPACE PASSENGER LINES****
+FROM      TO       FARE(KC) #TURNS TO ACCUMULATE ONE PERSON
+Earth     Venus    3        3
+Earth     Mars     4        4
+Earth     Ceres    4.5      5
+Earth     Callisto 5        7
+Earth     Ganymede 5        6
+Earth     Mercury  4        25
+Earth     Io       6        35
+Venus     Earth    3.5      4
+Venus     Mars     4        5
+Venus     Ceres    4.5      6
+Venus     Callisto 5.5      11
+Venus     Ganymede 6        14
+Ceres     Earth    4.5      9
+Ceres     Venus    4.5      5
+Ceres     Mars     2.5      2
+Ceres     Callisto 3        5
+Ceres     Ganymede 3.5      5
+Ceres     Io       4        30
+Callisto  Earth    5.5      8
+Callisto  Venus    6        10
+Callisto  Mars     4        12
+Callisto  Ceres    4        8
+Callisto  Ganymede 2        5
+Callisto  Io       4        30
+Ganymede  Earth    4        10
+Ganymede  Venus    5.5      7
+Ganymede  Mars     6        14
+Ganymede  Ceres    4.5      10
+Ganymede  Callisto 2        5
+Ganymede  Io       4        30
+Mercury   Earth    4.5      25
+Mercury   Venus    4.5      25
+Io        Earth    6.5      30
+Io        Ceres    4.5      30
+Io        Callisto 4        30
+Io        Ganymede 4        30
+
+All routes and times must be posted before departure and must be followed
+as closely as possible.
+
+41. ****TRIAL RESULTS TABLE ****
+
+    CLASS I CRIME        CLASS II CRIME           CLASS III CRIME
+ 20 **Suit Dismissed**** **Suit Dismissed******** **Suit Dismissed*************
+ 19 ******************** ************************ *****************************
+ 18 ******************** ************************ | Acquitted
+ 17 ******************** ************************ |
+ 16 ******************** | Acquitted              |
+ 15 ******************** |                        |
+ 14 ******************** |                        **500 KC Fine****************
+ 13 ******************** |                        *****************************
+ 12 | Acquitted          |                        *****************************
+ 11 |                    |                        *****************************
+ 10 |                    **100 KC Fine*********** *****************************
+  9 |                    ************************ *****************************
+  8 |                    ************************ | 90 Day Imprisonment
+  7 |                    ************************ |   + 1000 KC Fine
+  6 **50 KC Fine******** | 250 KC Fine            |
+  5 ******************** |                        |
+  4 ******************** |                        **180 Day Imprisonment*******
+  3 ******************** |                        ****+ 2000 KC Fine***********
+  2 | 100 KC Fine        |                        *****************************
+  1 |                    |                        *****************************
+  0 |                    **500 KC Fine*********** | 360 Day Imprisonment
+ -1 |                    ************************ |   + 5000 KC Fine
+ -2 |                    ************************ |
+ -3 **250 KC Fine******* ************************ **720 Day Imprisonment*******
+ -4 ******************** ************************ ***+ 10,000 KC Fine**********
+ -5 ******************** | 60 Day Imprisonment    *****************************
+ -6 ******************** |   + 500 KC Fine        *****************************
+ -7 | 500 KC Fine        |                        *****************************
+ -8 |                    |                        *****************************
+ -9 |                    **120 Day Imprisonment** | 720 Day Imprisonment
+-10 |                    ****+ 1000 KC Fine****** | + Confiscation of 1/2 of
+-11 |                    ************************ |   all goods
+-12 |                    ************************ |
+-13 *60 Day Imprisonment ************************ **1000 Day Imprisonment******
+-14 ***+ 500 KC Fine**** ************************ **+ Confiscation of all goods
+-15 ******************** | 180 Day Imprisonment   *****************************
+-16 ******************** |   + 2000 KC Fine       *****************************
+-17 |120 Day Imprisonment|                        | Death to all involved
+-18 |  + 1000 KC Fine    |                        | + Confiscation of all goods
+-19 |                    **360 Day Imprisonment** |
+-20 |                    ****+ 5000 KC Fine****** |
+
+
